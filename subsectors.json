@@ -1,0 +1,5367 @@
+[{
+	"sector": 11,
+	"name": "Agriculture, forestry, fishing and hunting",
+	"subsectors" :
+	[
+		{
+			"code": 111,
+			"name": "Crop Production",
+			"subsectors":
+			[
+				{
+					"code": 1111,
+					"name": "Oilseed and grain farming",
+					"subsectors" :
+					[
+						{
+							"code": 11111,
+							"name": "Soybean farming"
+						},{
+							"code": 11112,
+							"name": "Oilseed (except soybean) farming"
+						},{
+							"code": 11113,
+							"name": "Dry pea and bean farming"
+						},{
+							"code": 11114,
+							"name": "Wheat farming"
+						},{
+							"code": 11115,
+							"name": "Corn farming"
+						},{
+							"code": 11116,
+							"name": "Rice farming"
+						},{
+							"code": 11119,
+							"name": "Other grain farming"
+						}
+					]
+				},{
+					"code": 1112,
+					"name": "Vegetable and melon farming",
+					"subsectors":
+					[
+						{
+							"code": 11121,
+							"name": "Vegetable and melon farming"
+						},{
+							"code": 111211,
+							"name": "Potato farming"
+						},{
+							"code": 111219,
+							"name": "Other vegetable (except potato) and melon farming"
+						}
+					]
+
+				},{
+					"code": 1113,
+					"name": "Fruit and tree nut farming",
+					"subsectors":
+					[
+						{
+							"code": 11131,
+							"name": "Orange groves"
+						},{
+							"code": 11132,
+							"name": "Citrus (except orange) groves"
+						},{
+							"code": 11133,
+							"name": "Non-citrus fruit and tree nut farming"
+						}
+					]
+				},{
+					"code": 1114,
+					"name": "Greenhouse, nursery and floriculture production",
+					"subsectors":
+					[
+						{
+							"code": 11141,
+							"name": "Food crops grown under cover"
+						},{
+							"code": 11141,
+							"name": " Mushroom production"
+						},{
+							"code": 11141,
+							"name": " Other food crops grown under cover"
+						},{
+							"code": 11142,
+							"name": "Nursery and floriculture production"
+						}
+					]
+				},{
+					"code": 1119,
+					"name": "Other crop farming",
+					"subsectors":
+					[
+						{
+							"code": 11191,
+							"name": "Tobacco farming"
+						},{
+							"code": 11192,
+							"name": "Cotton farming"
+						},{
+							"code": 11193,
+							"name": "Sugar cane farming"
+						},{
+							"code": 11194,
+							"name": "Hay farming"
+						},{
+							"code": 11199,
+							"name": "All other crop farming"
+						},{
+							"code": 11199,
+							"name": "Fruit and vegetable combination farming"
+						},{
+							"code": 11199,
+							"name": " Maple syrup and products production"
+						},{
+							"code": 111909,
+							"name": "All other miscellaneous crop farming"
+						}
+					]
+				}
+			]
+		},{
+			"code": 112,
+			"name": "Animal production and aquaculture",
+			"subsectors":
+			[
+				{
+					"code": 1121,
+					"name": "Cattle ranching and farming",
+					"subsectors":
+					[
+						{
+							"code": 11211,
+							"name": "Beef cattle ranching and farming, including feedlots"
+						},{
+							"code": 11212,
+							"name": "Dairy cattle and milk production"
+						}
+					]
+				},{
+					"code": 1122,
+					"name": "Hog and pig farming",
+					"subsectors":
+					[
+						{
+							"code": 11221,
+							"name": "Hog and pig farming"
+						}
+					]
+				},{
+					"code": 1123,
+					"name": "Poultry and egg production",
+					"subsectors":
+					[
+						{
+							"code": 11231,
+							"name": "Chicken egg production"
+						},{
+							"code": 11232,
+							"name": "Broiler and other meat-type chicken production"
+						},{
+							"code": 11233,
+							"name": "Turkey production"
+						},{
+							"code": 11234,
+							"name": "Poultry hatcheries"
+						},{
+							"code": 11239,
+							"name": "Other poultry production"
+						}
+					]
+				},{
+					"code": 1124,
+					"name": "Sheep and goat farming",
+					"subsectors":
+					[
+						{
+							"code": 11241,
+							"name": "Sheep farming"
+						},{
+							"code": 11242,
+							"name": "Goat farming"
+						}
+					]
+				},{
+					"code": 1125,
+					"name": "Aquaculture",
+					"subsectors":
+					[
+						{
+							"code": 11251,
+							"name": "Aquaculture"
+						}
+					]
+				},{
+					"code": 1129,
+					"name": "Other animal production",
+					"subsectors":
+					[
+						{
+							"code": 11291,
+							"name": "Apiculture"
+						},{
+							"code": 11292,
+							"name": "Horse and other equine production"
+						},{
+							"code": 11293,
+							"name": "Fur-bearing animal and rabbit production"
+						},{
+							"code": 11299,
+							"name": "All other animal production"
+						}
+					]
+				}
+			]
+		},{
+			"code": 113,
+			"name": "Forestry and logging",
+			"subsectors":
+			[
+				{
+					"code": 1131,
+					"name": "Timber tract operations",
+					"subsectors":
+					[
+						{
+							"code": 11311,
+							"name": "Timber tract operations"
+						}
+					]
+				},{
+					"code": 1132,
+					"name": "Forest nurseries and gathering of forest products",
+					"subsectors":
+					[
+						{
+							"code": 11321,
+							"name": "Forest nurseries and gathering of forest products"
+						}
+					]
+				},{
+					"code": 1133,
+					"name": "Logging",
+					"subsectors":
+					[
+						{
+							"code": 11331,
+							"name": "Logging"
+						}
+					]
+				}
+			]
+		},{
+			"code": 114,
+			"name": "Fishing, hunting and trapping",
+			"subsectors":
+			[
+				{
+					"code": 1141,
+					"name": "Fishing",
+					"subsectors":
+					[
+						{
+							"code": 114113,
+							"name": "Sale water fishing"
+						},{
+							"code": 114114,
+							"name": "Freshwater fishing"
+						}
+					]
+				},{
+					"code": 1142,
+					"name": "Hunting and Trapping",
+					"subsectors":
+					[
+						{
+							"code": 11421,
+							"name": "Hunting nad Trapping"
+						}
+					]
+				}
+			]
+		},{
+			"code": 115,
+			"name": "Support activities for agriculture and forestry",
+			"subsectors":
+			[
+				{
+					"code": 1151,
+					"name": "Support activities for crop production",
+					"subsectors":
+					[
+						{
+							"code": 11511,
+							"name": "Support activities for crop production"
+						}
+					]
+				},{
+					"code": 1152,
+					"name": "Support activities for animal production",
+					"subsectors":
+					[
+						{
+							"code": 11521,
+							"name": "Support activities for animal production"
+						}
+					]
+				},{
+					"code": 1153,
+					"name": "Support activities for forestry",
+					"subsectors":
+					[
+						{
+							"code": 11531,
+							"name": "Support activities for forestry"
+						}
+					]
+				}
+			]
+		}
+	]
+},{
+	"sector": 21,
+	"name": "Mining, quarrying, and oil and gas extraction",
+	"subsectors":
+	[
+
+		{
+			"code": 211,
+			"name": "Oil and gas extraction",
+			"subsectors":
+			[
+				{
+					"code": 2111,
+					"name": "Oil and gas extraction",
+					"subsectors":
+					[
+						{
+							"code": 21111,
+							"name": "Oil and gas extraction"
+						}
+					]
+				}
+			]
+		},{
+			"code": 212,
+			"name": "Mining and quarrying (except oil and gas)",
+			"subsectors":
+			[
+				{
+					"code": 2121,
+					"name": "Coal mining",
+					"subsectors":
+					[
+						{
+							"code": 21211,
+							"name": "Coal mining"
+						},{
+							"code": 212114,
+							"name": "Bituminous coal mining"
+						},{
+							"code": 212115,
+							"name": "Subbituminous coal mining"
+						},{
+							"code": 212116,
+							"name": "Lignite coal mining"
+						}
+					]
+				},{
+					"code": 2122,
+					"name": "Metal ore mining",
+					"subsectors":
+					[
+						{
+							"code": 21221,
+							"name": "Iron ore mining"
+						},{
+							"code": 21222,
+							"name": "Gold and silver ore mining"
+						},{
+							"code": 21223,
+							"name": "Copper, nickel, lead and zinc ore mining"
+						},{
+							"code": 212232,
+							"name": "Nickel-copper ore mining"
+						},{
+							"code": 212233,
+							"name": "Copper-zinc ore mining"
+						},{
+							"code": 21229,
+							"name": "Other metal ore mining"
+						},{
+							"code": 212291,
+							"name": "Uranium ore mining"
+						},{
+							"code": 212299,
+							"name": "All other metal ore mining"
+						}
+					]
+				},{
+					"code": 2123,
+					"name": "Non-metallic mineral mining and quarrying",
+					"subsectors":
+					[
+						{
+							"code": 21231,
+							"name": "Stone mining and quarrying"
+						},{
+							"code": 21232,
+							"name": "Sand, gravel, clay, and ceramic and refractory minerals mining and quarrying"
+						},{
+							"code": 21239,
+							"name": "Other non-metallic mineral mining and quarrying"
+						}
+					]
+				}
+			]
+		},{
+			"code": 213,
+			"name": "Support activities for mining, and oil and gas extraction",
+			"subsectors":
+			[
+				{
+					"code": 2131,
+					"name": "Support activities for mining, and oil and gas extraction",
+					"subsectors":
+					[
+						{
+							"code": 213111,
+							"name": "Oil and gas contract drilling"
+						},{
+							"code": 213117,
+							"name": "Contract drilling (except oil and gas)"
+						},{
+							"code": 213118,
+							"name": "Services to oil and gas extraction"
+						},{
+							"code": 213119,
+							"name": "Other support activities for mining"
+						}
+					]
+				}
+			]
+		}
+	]
+},{
+	"sector": 22,
+	"name": "Utilities",
+	"subsectors":
+	[
+		{
+			"code": 221,
+			"name": "Utilities",
+			"subsectors":
+			[
+				{
+					"code": 2211,
+					"name": "Electric power generation, transmission and distribution",
+					"subsectors":
+					[
+						{
+							"code": 22111,
+							"name": "Electric power generation"
+						},{
+							"code": 22112,
+							"name": "Electric power transmission, control and distribution"
+						}
+					]
+				},{
+					"code": 2212,
+					"name": "Natural gas distribution",
+					"subsectors":
+					[
+						{
+							"code": 22121,
+							"name": "Natural gas distribution"
+						}
+					]
+				},{
+					"code": 2213,
+					"name": "Water, sewage and other systems",
+					"subsectors":
+					[
+						{
+							"code": 22131,
+							"name": "Water supply and irrigation systems"
+						},{
+							"code": 22132,
+							"name": "Sewage treatment facilities"
+						},{
+							"code": 22133,
+							"name": "Steam and air-conditioning supply"
+						}
+					]
+				}
+			]
+		}
+	]
+},{
+	"sector": 23,
+	"name": "Construction",
+	"subsectors":
+	[
+			{
+				"code": 236,
+				"name": "Construction of buildings",
+				"subsectors":
+				[
+					{
+						"code": 2361,
+						"name": "Residential building construction",
+						"subsectors":
+						[
+							{
+								"code": 23611,
+								"name": "Residential building construction"
+							}
+						]
+					},{
+						"code": 2362,
+						"name": "Non-residential building construction",
+						"subsectors":
+						[
+							{
+								"code": 23621,
+								"name": "Industrial building and structure construction"
+							},{
+								"code": 23622,
+								"name": "Commercial and institutional building construction"
+							}
+						]
+					}
+				]
+			},{
+				"code": 237,
+				"name": "Heavy and civil engineering construction",
+				"subsectors":
+				[
+					{
+						"code": 2371,
+						"name": "Utility system construction",
+						"subsectors":
+						[
+							{
+								"code": 23711,
+								"name": "Water and sewer line and related structures construction"
+							},{
+								"code": 23712,
+								"name": "Oil and gas pipeline and related structures construction"
+							},{
+								"code": 23713,
+								"name": "Power and communication line and related structures construction"
+							}
+						]
+					},{
+						"code": 2372,
+						"name": "Land subdivision",
+						"subsectors":
+						[
+							{
+								"code": 23721,
+								"name": "Land subdivision"
+							}
+						]
+					},{
+						"code": 2373,
+						"name": "Highway, street and bridge construction",
+						"subsectors":
+						[
+							{
+								"code": 23731,
+								"name": "Highway, street and bridge construction"
+							}
+						]
+					},{
+						"code": 2379,
+						"name": "Other heavy and civil engineering construction",
+						"subsectors":
+						[
+							{
+								"code": 23799,
+								"name": "Other heavy and civil engineering construction"
+							}
+						]
+					}
+				]
+			},{
+				"code": 238,
+				"name": "Specialty trade contractors",
+				"subsectors":
+				[
+					{
+						"code": 2381,
+						"name": "Foundation, structure, and building exterior contractors",
+						"subsectors":
+						[
+							{
+								"code": 23811,
+								"name": "Poured concrete foundation and structure contractors"
+							},{
+								"code": 23812,
+								"name": "Structural steel and precast concrete contractors"
+							},{
+								"code": 23813,
+								"name": "Framing contractors"
+							},{
+								"code": 23814,
+								"name": "Masonry contractors"
+							},{
+								"code": 23815,
+								"name": "Glass and glazing contractors"
+							},{
+								"code": 23816,
+								"name": "Roofing contractors"
+							},{
+								"code": 23817,
+								"name": "Siding contractors"
+							},{
+								"code": 23819,
+								"name": "Other foundation, structure and building exterior contractors"
+							}
+						]
+					},{
+						"code": 2382,
+						"name": "Building equipment contractors",
+						"subsectors":
+						[
+							{
+								"code": 23821,
+								"name": "Electrical contractors and other wiring installation contractors"
+							},{
+								"code": 23822,
+								"name": "Plumbing, heating and air-conditioning contractors"
+							},{
+								"code": 23829,
+								"name": "Other building equipment contractors"
+							}
+						]
+					},{
+						"code": 2383,
+						"name": "Building finishing contractors",
+						"subsectors":
+						[
+							{
+								"code": 23831,
+								"name": "Drywall and insulation contractors"
+							},{
+								"code": 23832,
+								"name": "Painting and wall covering contractors"
+							},{
+								"code": 23833,
+								"name": "Flooring contractors"
+							},{
+								"code": 23834,
+								"name": "Tile and terrazzo contractors"
+							},{
+								"code": 23835,
+								"name": "Finish carpentry contractors"
+							},{
+								"code": 23839,
+								"name": "Other building finishing contractors"
+							}
+						]
+					},{
+						"code": 2389,
+						"name": "Other specialty trade contractors",
+						"subsectors":
+						[
+							{
+								"code": 23891,
+								"name": "Site preparation contractors"
+							},{
+								"code": 23899,
+								"name": "All other specialty trade contractors"
+							}
+						]
+					}
+				]
+			}
+	]
+},{
+	"sector": 31,
+	"name": "Manufacturing",
+	"subsectors":
+	[
+		{
+			"code": 311,
+			"name": "Food manufacturing",
+			"subsectors":
+			[
+				{
+					"code": 3111,
+					"name": "Animal food manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 311111,
+							"name": "Dog and cat food manufacturing"
+						},{
+							"code": 311119,
+							"name": "Other animal food manufacturing"
+						}
+					]
+				},{
+					"code": 3112,
+					"name": "Grain and oilseed milling",
+					"subsectors":
+					[
+						{
+							"code": 31121,
+							"name": "Flour milling and malt manufacturing"
+						},{
+							"code": 31122,
+							"name": "Starch and vegetable fat and oil manufacturing"
+						},{
+							"code": 31123,
+							"name": "Breakfast cereal manufacturing"
+						}
+					]
+				},{
+					"code": 3113,
+					"name": "Sugar and confectionery product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 31131,
+							"name": "Sugar manufacturing"
+						},{
+							"code": 31134,
+							"name": "Non-chocolate confectionery manufacturing"
+						},{
+							"code": 31135,
+							"name": "Chocolate and chocolate confectionery manufacturing"
+						}
+					]
+				},{
+					"code": 3114,
+					"name": "Fruit and vegetable preserving and specialty food manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 31141,
+							"name": "Frozen food manufacturing"
+						},{
+							"code": 31142,
+							"name": "Fruit and vegetable canning, pickling and drying"
+						}
+					]
+				},{
+					"code": 3115,
+					"name": "Dairy product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 31151,
+							"name": "Dairy product (except frozen) manufacturing"
+						},{
+							"code": 31152,
+							"name": "Ice cream and frozen dessert manufacturing"
+						}
+					]
+				},{
+					"code": 3116,
+					"name": "Meat product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 311611,
+							"name": "Animal (except poultry) slaughtering"
+						},{
+							"code": 311614,
+							"name": "Rendering and meat processing from carcasses"
+						},{
+							"code": 311615,
+							"name": "Poultry processing"
+						}
+					]
+				},{
+					"code": 3117,
+					"name": "Seafood product preparation and packaging",
+					"subsectors":
+					[
+						{
+							"code": 31171,
+							"name": "Seafood product preparation and packaging"
+						}
+					]
+				},{
+					"code": 3118,
+					"name": "Bakeries and tortilla manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 31181,
+							"name": "Bread and bakery product manufacturing"
+						},{
+							"code": 31182,
+							"name": "Cookie, cracker and pasta manufacturing"
+						},{
+							"code": 31183,
+							"name": "Tortilla manufacturing"
+						}
+					]
+				},{
+					"code": 3119,
+					"name": "Other food manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 31191,
+							"name": "Snack food manufacturing"
+						},{
+							"code": 31192,
+							"name": "Coffee and tea manufacturing"
+						},{
+							"code": 31193,
+							"name": "Flavouring syrup and concentrate manufacturing"
+						},{
+							"code": 31194,
+							"name": "Seasoning and dressing manufacturing"
+						},{
+							"code": 31199,
+							"name": "All other food manufacturing"
+						}
+					]
+				}
+			]
+		},{
+			"code": 312,
+			"name": "Beverage and tobacco product manufacturing",
+			"subsectors":
+			[
+				{
+					"code": 3121,
+					"name": "Beverage manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 31211,
+							"name": "Soft drink and ice manufacturing"
+						},{
+							"code": 31212,
+							"name": "Breweries"
+						},{
+							"code": 31213,
+							"name": "Wineries"
+						},{
+							"code": 31214,
+							"name": "Distilleries"
+						}
+					]
+				},{
+					"code": 3122,
+					"name": "Tobacco manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 31221,
+							"name": "Tobacco stemming and redrying"
+						},{
+							"code": 31222,
+							"name": "Tobacco product manufacturing"
+						}
+					]
+				}
+			]
+		},{
+			"code": 313,
+			"name": "Textile mills",
+			"subsectors":
+			[
+				{
+					"code": 3131,
+					"name": "Fibre, yarn and thread mills",
+					"subsectors":
+					[
+						{
+							"code": "31311",
+							"name": "Fibre, yarn and thread mills"
+						}
+					]
+				},{
+					"code": 3132,
+					"name": "Fabric mills",
+					"subsectors":
+					[
+						{
+							"code": 31321,
+							"name": "Broad-woven fabric mills"
+						},{
+							"code": 31322,
+							"name": "Narrow fabric mills and Schiffli machine embroidery"
+						},{
+							"code": 31323,
+							"name": "Nonwoven fabric mills"
+						},{
+							"code": 31324,
+							"name": "Knit fabric mills"
+						}
+					]
+				},{
+					"code": 3133,
+					"name": "Textile and fabric finishing and fabric coating",
+					"subsectors":
+					[
+						{
+							"code": 31331,
+							"name": "Textile and fabric finishing"
+						},{
+							"code": 31332,
+							"name": "Fabric coating"
+						}
+					]
+				}
+			]
+		},{
+			"code": 314,
+			"name": "Textile product mills",
+			"subsectors":
+			[
+				{
+					"code": 3141,
+					"name": "Textile furnishings mills"
+				},{
+					"code": 3149,
+					"name": "Other textile product mills"
+				}
+			]
+		},{
+			"code": 315,
+			"name": "Clothing manufacturing",
+			"subsectors":
+			[
+				{
+					"code": 3151,
+					"name": "Clothing knitting mills",
+					"subsectors":
+					[
+						{
+							"code": 31511,
+							"name": "Hosiery and sock mills"
+						},{
+							"code": 31519,
+							"name": "Other clothing knitting mills"
+						}
+					]
+				},{
+					"code": 3152,
+					"name": "Cut and sew clothing manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 31521,
+							"name": "Cut and sew clothing contracting"
+						},{
+							"code": 31522,
+							"name": "Men's and boys' cut and sew clothing manufacturing"
+						},{
+							"code": 31524,
+							"name": "Women's, girls' and infants' cut and sew clothing manufacturing"
+						},{
+							"code": 315281,
+							"name": "Fur and leather clothing manufacturing"
+						},{
+							"code": 315289,
+							"name": "All other cut and sew clothing manufacturing"
+						}
+					]
+				},{
+					"code": 3159,
+					"name": "Clothing accessories and other clothing manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 31599,
+							"name": "Clothing accessories and other clothing manufacturing"
+						}
+					]
+				}
+			]
+		},{
+			"code": 316,
+			"name": "Leather and allied product manufacturing",
+			"subsectors":
+			[
+				{
+					"code": 3161,
+					"name": "Leather and hide tanning and finishing",
+					"subsectors":
+					[
+						{
+							"code": 3161,
+							"name": "Leather and hide tanning and finishing"
+						}
+					]
+				},{
+					"code": 3162,
+					"name": "Footwear manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 3162,
+							"name": "Footwear manufacturing"
+						}
+					]
+				},{
+					"code": 3169,
+					"name": "Other leather and allied product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 3169,
+							"name": "Other leather and allied product manufacturing"
+						}
+					]
+				}
+			]
+		},{
+			"code": 321,
+			"name": "Wood product manufacturing",
+			"subsectors":
+			[
+				{
+					"code": 3211,
+					"name": "Sawmills and wood preservation",
+					"subsectors":
+					[
+						{
+							"code": 32111,
+							"name": "Sawmills and wood preservation"
+						}
+					]
+				},{
+					"code": 3212,
+					"name": "Veneer, plywood and engineered wood product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 321211,
+							"name": "Hardwood veneer and plywood mills"
+						},{
+							"code": 321212,
+							"name": "Softwood veneer and plywood mills"
+						},{
+							"code": 321215,
+							"name": "Structural wood product manufacturing"
+						},{
+							"code": 321216,
+							"name": "Particle board and fibreboard mills"
+						},{
+							"code": 321217,
+							"name": "Waferboard mills"
+						}
+					]
+				},{
+					"code": 3219,
+					"name": "Other wood product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 32191,
+							"name": "Millwork"
+						},{
+							"code": 32192,
+							"name": "Wood container and pallet manufacturing"
+						},{
+							"code": 32199,
+							"name": "All other wood product manufacturing"
+						}
+					]
+				}
+			]
+		},{
+			"code": 322,
+			"name": "Paper manufacturing",
+			"subsectors":
+			[
+				{
+					"code": 3221,
+					"name": "Pulp, paper and paperboard mills",
+					"subsectors":
+					[
+						{
+							"code": 32211,
+							"name": "Pulp mills"
+						},{
+							"code": 32212,
+							"name": "Paper mills"
+						},{
+							"code": 32213,
+							"name": "Paperboard mills"
+						}
+					]
+				},{
+					"code": 3222,
+					"name": "Converted paper product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 32221,
+							"name": "Paperboard container manufacturing"
+						},{
+							"code": 32222,
+							"name": "Paper bag and coated and treated paper manufacturing"
+						},{
+							"code": 32223,
+							"name": "Stationery product manufacturing"
+						},{
+							"code": 32229,
+							"name": "Other converted paper product manufacturing"
+						}
+					]
+				}
+			]
+		},{
+			"code": 323,
+			"name": "Printing and related support activities",
+			"subsectors":
+			[
+				{
+					"code": 3231,
+					"name": "Printing and related support activities",
+					"subsectors":
+					[
+						{
+							"code": 32311,
+							"name": "Printing"
+						},{
+							"code": 32312,
+							"name": "Support activities for printing"
+						}
+					]
+				}
+			]
+		},{
+			"code": 324,
+			"name": "Petroleum and coal product manufacturing",
+			"subsectors":
+			[
+				{
+					"code": 3241,
+					"name": "Petroleum and coal product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 32411,
+							"name": "Petroleum refineries"
+						},{
+							"code": 32412,
+							"name": "Asphalt paving, roofing and saturated materials manufacturing"
+						},{
+							"code": 32419,
+							"name": "Other petroleum and coal product manufacturing"
+						}
+					]
+				}
+			]
+		},{
+			"code": 325,
+			"name": "Chemical manufacturing",
+			"subsectors":
+			[
+				{
+					"code": 3251,
+					"name": "Basic chemical manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 32511,
+							"name": "Petrochemical manufacturing"
+						},{
+							"code": 32512,
+							"name": "Industrial gas manufacturing"
+						},{
+							"code": 32513,
+							"name": "Synthetic dye and pigment manufacturing"
+						},{
+							"code": 32518,
+							"name": "Other basic inorganic chemical manufacturing"
+						},{
+							"code": 32519,
+							"name": "Other basic organic chemical manufacturing"
+						}
+					]
+				},{
+					"code": 3252,
+					"name": "Resin, synthetic rubber, and artificial and synthetic fibres and filaments manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 32521,
+							"name": "Resin and synthetic rubber manufacturing"
+						},{
+							"code": 32522,
+							"name": "Artificial and synthetic fibres and filaments manufacturing"
+						}
+					]
+				},{
+					"code": 3253,
+					"name": "Pesticide, fertilizer and other agricultural chemical manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 32531,
+							"name": "Fertilizer manufacturing"
+						},{
+							"code": 32532,
+							"name": "Pesticide and other agricultural chemical manufacturing"
+						}
+					]
+				},{
+					"code": 3254,
+					"name": "Pharmaceutical and medicine manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 32541,
+							"name": "Pharmaceutical and medicine manufacturing"
+						}
+					]
+				},{
+					"code": 3255,
+					"name": "Paint, coating and adhesive manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 32551,
+							"name": "Paint and coating manufacturing"
+						},{
+							"code": 32552,
+							"name": "Adhesive manufacturing"
+						}
+					]
+				},{
+					"code": 3256,
+					"name": "Soap, cleaning compound and toilet preparation manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 32561,
+							"name": "Soap and cleaning compound manufacturing"
+						},{
+							"code": 32562,
+							"name": "Toilet preparation manufacturing"
+						}
+					]
+				},{
+					"code": 3259,
+					"name": "Other chemical product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 32591,
+							"name": "Printing ink manufacturing"
+						},{
+							"code": 32592,
+							"name": "Explosives manufacturing"
+						},{
+							"code": 32599,
+							"name": "All other chemical product manufacturing"
+						}
+					]
+				}
+			]
+		},{
+			"code": 326,
+			"name": "Plastics and rubber products manufacturing",
+			"subsectors":
+			[
+				{
+					"code": 3261,
+					"name": "Plastic product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 32611,
+							"name": "Plastic packaging materials and unlaminated film and sheet manufacturing"
+						},{
+							"code": 32612,
+							"name": "Plastic pipe, pipe fitting, and unlaminated profile shape manufacturing"
+						},{
+							"code": 32613,
+							"name": "Laminated plastic plate, sheet (except packaging), and shape manufacturing"
+						},{
+							"code": 32614,
+							"name": "Polystyrene foam product manufacturing"
+						},{
+							"code": 32615,
+							"name": "Urethane and other foam product (except polystyrene) manufacturing"
+						},{
+							"code": 32616,
+							"name": "Plastic bottle manufacturing"
+						},{
+							"code": 32619,
+							"name": "Other plastic product manufacturing"
+						}
+					]
+				},{
+					"code": 3262,
+					"name": "Rubber product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 32621,
+							"name": "Tire manufacturing"
+						},{
+							"code": 32622,
+							"name": "Rubber and plastic hose and belting manufacturing"
+						},{
+							"code": 32629,
+							"name": "Other rubber product manufacturing"
+						}
+					]
+				}
+			]
+		},{
+			"code": 327,
+			"name": "Non-metallic mineral product manufacturing",
+			"subsectors":
+			[
+				{
+					"code": 3271,
+					"name": "Clay product and refractory manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 32711,
+							"name": "Pottery, ceramics and plumbing fixture manufacturing"
+						},{
+							"code": 32712,
+							"name": "Clay building material and refractory manufacturing"
+						}
+					]
+				},{
+					"code": 3272,
+					"name": "Glass and glass product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 32721,
+							"name": "Glass and glass product manufacturing"
+						}
+					]
+				},{
+					"code": 3273,
+					"name": "Cement and concrete product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 32731,
+							"name": "Cement manufacturing"
+						},{
+							"code": 32732,
+							"name": "Ready-mix concrete manufacturing"
+						},{
+							"code": 32733,
+							"name": "Concrete pipe, brick and block manufacturing"
+						},{
+							"code": 32739,
+							"name": "Other concrete product manufacturing"
+						}
+					]
+				},{
+					"code": 3274,
+					"name": "Lime and gypsum product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 32741,
+							"name": "Lime manufacturing"
+						},{
+							"code": 32742,
+							"name": "Gypsum product manufacturing"
+						}
+					]
+				},{
+					"code": 3279,
+					"name": "Other non-metallic mineral product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 32791,
+							"name": "Abrasive product manufacturing"
+						},{
+							"code": 32799,
+							"name": "All other non-metallic mineral product manufacturing"
+						}
+					]
+				}
+			]
+		},{
+			"code": 331,
+			"name": "Primary metal manufacturing",
+			"subsectors":
+			[
+				{
+					"code": 3311,
+					"name": "Iron and steel mills and ferro-alloy manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33111,
+							"name": "Iron and steel mills and ferro-alloy manufacturing"
+						}
+					]
+				},{
+					"code": 3312,
+					"name": "Steel product manufacturing from purchased steel",
+					"subsectors":
+					[
+						{
+							"code": 33121,
+							"name": "Iron and steel pipes and tubes manufacturing from purchased steel"
+						},{
+							"code": 33122,
+							"name": "Rolling and drawing of purchased steel"
+						}
+					]
+				},{
+					"code": 3313,
+					"name": "Alumina and aluminum production and processing",
+					"subsectors":
+					[
+						{
+							"code": 33131,
+							"name": "Alumina and aluminum production and processing"
+						}
+					]
+				},{
+					"code": 3314,
+					"name": "Non-ferrous metal (except aluminum) production and processing",
+					"subsectors":
+					[
+						{
+							"code": 33141,
+							"name": "Non-ferrous metal (except aluminum) smelting and refining"
+						},{
+							"code": 33142,
+							"name": "Copper rolling, drawing, extruding and alloying"
+						},{
+							"code": 33149,
+							"name": "Non-ferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying"
+						}
+					]
+				},{
+					"code": 3315,
+					"name": "Foundries",
+					"subsectors":
+					[
+						{
+							"code": 33151,
+							"name": "Ferrous metal foundries"
+						},{
+							"code": 33152,
+							"name": "Non-ferrous metal foundries"
+						}
+					]
+				}
+			]
+		},{
+			"code": 332,
+			"name": "Fabricated metal product manufacturing",
+			"subsectors":
+			[
+				{
+					"code": 3321,
+					"name": "Forging and stamping",
+					"subsectors":
+					[
+						{
+							"code": 332113,
+							"name": "Forging"
+						},{
+							"code": 332118,
+							"name": "Stamping"
+						}
+					]
+				},{
+					"code": 3322,
+					"name": "Cutlery and hand tool manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33221,
+							"name": "Cutlery and hand tool manufacturing"
+						}
+					]
+				},{
+					"code": 3323,
+					"name": "Architectural and structural metals manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33231,
+							"name": "Plate work and fabricated structural product manufacturing"
+						},{
+							"code": 33232,
+							"name": "Ornamental and architectural metal product manufacturing"
+						}
+					]
+				},{
+					"code": 3324,
+					"name": "Boiler, tank and shipping container manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33241,
+							"name": "Power boiler and heat exchanger manufacturing"
+						},{
+							"code": 33242,
+							"name": "Metal tank (heavy gauge) manufacturing"
+						},{
+							"code": 33243,
+							"name": "Metal can, box and other metal container (light gauge) manufacturing"
+						}
+					]
+				},{
+					"code": 3325,
+					"name": "Hardware manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33251,
+							"name": "Hardware manufacturing"
+						}
+					]
+				},{
+					"code": 3326,
+					"name": "Spring and wire product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33261,
+							"name": "Spring and wire product manufacturing"
+						}
+					]
+				},{
+					"code": 3327,
+					"name": "Machine shops, turned product, and screw, nut and bolt manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33271,
+							"name": "Machine shops"
+						},{
+							"code": 33272,
+							"name": "Turned product and screw, nut and bolt manufacturing"
+						}
+					]
+				},{
+					"code": 3328,
+					"name": "Coating, engraving, cold and heat treating and allied activities",
+					"subsectors":
+					[
+						{
+							"code": 33281,
+							"name": "Coating, engraving, cold and heat treating and allied activities"
+						}
+					]
+				},{
+					"code": 3329,
+					"name": "Other fabricated metal product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33291,
+							"name": "Metal valve manufacturing"
+						},{
+							"code": 33299,
+							"name": "All other fabricated metal product manufacturing"
+						}
+					]
+				}
+			]
+		},{
+			"code": 333,
+			"name": "Machinery manufacturing",
+			"subsectors":
+			[
+				{
+					"code": 3331,
+					"name": "Agricultural, construction and mining machinery manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33311,
+							"name": "Agricultural implement manufacturing"
+						},{
+							"code": 33312,
+							"name": "Construction machinery manufacturing"
+						},{
+							"code": 33313,
+							"name": "Mining and oil and gas field machinery manufacturing"
+						}
+					]
+				},{
+					"code": 3332,
+					"name": "Industrial machinery manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 333245,
+							"name": "Sawmill and woodworking machinery manufacturing"
+						},{
+							"code": 333246,
+							"name": "Rubber and plastics industry machinery manufacturing"
+						},{
+							"code": 333247,
+							"name": "Paper industry machinery manufacturing"
+						},{
+							"code": 333248,
+							"name": "All other industrial machinery manufacturing"
+						}
+					]
+				},{
+					"code": 3333,
+					"name": "Commercial and service industry machinery manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33331,
+							"name": "Commercial and service industry machinery manufacturing"
+						}
+					]
+				},{
+					"code": 3334,
+					"name": "Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33341,
+							"name": "Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing"
+						}
+					]
+				},{
+					"code": 3335,
+					"name": "Metalworking machinery manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33351,
+							"name": "Metalworking machinery manufacturing"
+						}
+					]
+				},{
+					"code": 3336,
+					"name": "Engine, turbine and power transmission equipment manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33361,
+							"name": "Engine, turbine and power transmission equipment manufacturing"
+						}
+					]
+				},{
+					"code": 3339,
+					"name": "Other general-purpose machinery manufacturing",
+					"subsectors":
+					[
+							{
+								"code": 33391,
+								"name": "Pump and compressor manufacturing"
+							},{
+								"code": 33392,
+								"name": "Material handling equipment manufacturing"
+							},{
+								"code": 33399,
+								"name": "All other general-purpose machinery manufacturing"
+							}
+						]
+				}
+			]
+		},{
+			"code": 334,
+			"name": "Computer and electronic product manufacturing",
+			"subsectors":
+			[
+				{
+					"code": 3341,
+					"name": "Computer and peripheral equipment manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33411,
+							"name": "Computer and peripheral equipment manufacturing"
+						}
+					]
+				},{
+					"code": 3342,
+					"name": "Communications equipment manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33421,
+							"name": "Telephone apparatus manufacturing"
+						},{
+							"code": 33422,
+							"name": "Radio and television broadcasting and wireless communications equipment manufacturing"
+						},{
+							"code": 33429,
+							"name": "Other communications equipment manufacturing"
+						}
+					]
+				},{
+					"code": 3343,
+					"name": "Audio and video equipment manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33431,
+							"name": "Audio and video equipment manufacturing"
+						}
+					]
+				},{
+					"code": 3344,
+					"name": "Semiconductor and other electronic component manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33441,
+							"name": "Semiconductor and other electronic component manufacturing"
+						}
+					]
+				},{
+					"code": 3345,
+					"name": "Navigational, measuring, medical and control instruments manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33451,
+							"name": "Navigational, measuring, medical and control instruments manufacturing"
+						}
+					]
+				},{
+					"code": 3346,
+					"name": "Manufacturing and reproducing magnetic and optical media",
+					"subsectors":
+					[
+						{
+							"code": 33461,
+							"name": "Manufacturing and reproducing magnetic and optical media"
+						}
+					]
+				}
+			]
+		},{
+			"code": 335,
+			"name": "Electrical equipment, appliance and component manufacturing",
+			"subsectors":
+			[
+				{
+					"code":3351,
+					"name": "Electric lighting equipment manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33511,
+							"name": "Electric lamp bulb and parts manufacturing"
+						},{
+							"code": 33512,
+							"name": "Lighting fixture manufacturing"
+						}
+					]
+				},{
+					"code":3352,
+					"name": "Household appliance manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33521,
+							"name": "Small electrical appliance manufacturing"
+						},{
+							"code": 335223,
+							"name": "Major kitchen appliance manufacturing"
+						},{
+							"code": 335229,
+							"name": "Other major appliance manufacturing"
+						}
+					]
+				},{
+					"code":3353,
+					"name": "Electrical equipment manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33531,
+							"name": "Electrical equipment manufacturing"
+						}
+					]
+				},{
+					"code":3359,
+					"name": "Other electrical equipment and component manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33591,
+							"name": "Battery manufacturing"
+						},{
+							"code": 33592,
+							"name": "Communication and energy wire and cable manufacturing"
+						},{
+							"code": 33593,
+							"name": "Wiring device manufacturing"
+						},{
+							"code": 33599,
+							"name": "All other electrical equipment and component manufacturing"
+						}
+					]
+				}
+			]
+		},{
+			"code": 336,
+			"name": "Transportation equipment manufacturing",
+			"subsectors":
+			[
+				{
+					"code": 3361,
+					"name": "Motor vehicle manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33611,
+							"name": "Automobile and light-duty motor vehicle manufacturing"
+						},{
+							"code": 33612,
+							"name": "Heavy-duty truck manufacturing"
+						}
+					]
+				},{
+					"code": 3362,
+					"name": "Motor vehicle body and trailer manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33621,
+							"name": "Motor vehicle body and trailer manufacturing"
+						}
+					]
+				},{
+					"code": 3363,
+					"name": "Motor vehicle parts manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33631,
+							"name": "Motor vehicle gasoline engine and engine parts manufacturing"
+						},{
+							"code": 33632,
+							"name": "Motor vehicle electrical and electronic equipment manufacturing"
+						},{
+							"code": 33633,
+							"name": "Motor vehicle steering and suspension components (except spring) manufacturing"
+						},{
+							"code": 33634,
+							"name": "Motor vehicle brake system manufacturing"
+						},{
+							"code": 33635,
+							"name": "Motor vehicle transmission and power train parts manufacturing"
+						},{
+							"code": 33636,
+							"name": "Motor vehicle seating and interior trim manufacturing"
+						},{
+							"code": 33637,
+							"name": "Motor vehicle metal stamping"
+						},{
+							"code": 33639,
+							"name": "Other motor vehicle parts manufacturing"
+						}
+					]
+				},{
+					"code": 3364,
+					"name": "Aerospace product and parts manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 3364,
+							"name": "Aerospace product and parts manufacturing"
+						}
+					]
+				},{
+					"code": 3365,
+					"name": "Railroad rolling stock manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33651,
+							"name": "Railroad rolling stock manufacturing"
+						}
+					]
+				},{
+					"code": 3366,
+					"name": "Ship and boat building",
+					"subsectors":
+					[
+						{
+							"code": 33661,
+							"name": "Ship and boat building"
+						}
+					]
+				},{
+					"code": 3369,
+					"name": "Other transportation equipment manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33699,
+							"name": "Other transportation equipment manufacturing"
+						}
+					]
+				}
+			]
+		},{
+			"code": 337,
+			"name": "Furniture and related product manufacturing",
+			"subsectors":
+			[
+				{
+					"code": 3371,
+					"name": "Household and institutional furniture and kitchen cabinet manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33711,
+							"name": "Wood kitchen cabinet and counter top manufacturing"
+						},{
+							"code": 33712,
+							"name": "Household and institutional furniture manufacturing"
+						}
+					]
+				},{
+					"code": 3372,
+					"name": "Office furniture (including fixtures) manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33721,
+							"name": "Office furniture (including fixtures) manufacturing"
+						}
+					]
+				},{
+					"code": 3379,
+					"name": "Other furniture-related product manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33791,
+							"name": "Mattress manufacturing"
+						},{
+							"code": 33792,
+							"name": "Blind and shade manufacturing"
+						}
+					]
+				}
+			]
+		},{
+			"code": 339,
+			"name": "Miscellaneous manufacturing",
+			"subsectors":
+			[
+				{
+					"code": 3391,
+					"name": "Medical equipment and supplies manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33911,
+							"name": "Medical equipment and supplies manufacturing"
+						}
+					]
+				},{
+					"code": 3399,
+					"name": "Other miscellaneous manufacturing",
+					"subsectors":
+					[
+						{
+							"code": 33991,
+							"name": "Jewellery and silverware manufacturing"
+						},{
+							"code": 33992,
+							"name": "Sporting and athletic goods manufacturing"
+						},{
+							"code": 33993,
+							"name": "Doll, toy and game manufacturing"
+						},{
+							"code": 33994,
+							"name": "Office supplies (except paper) manufacturing"
+						},{
+							"code": 33995,
+							"name": "Sign manufacturing"
+						},{
+							"code": 33999,
+							"name": "All other miscellaneous manufacturing"
+						}
+					]
+				}
+			]
+		}
+	]
+},{
+	"sector": 41,
+	"name": "Wholesale trade",
+	"subsectors": [
+		{
+			"code": 411,
+			"name": "Farm product merchant wholesalers",
+			"subsectors":
+			[
+				{
+					"code": 4111,
+					"name": "Farm product merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41111,
+							"name": "Live animal merchant wholesalers"
+						},{
+							"code": 41112,
+							"name": "Oilseed and grain merchant wholesalers"
+						},{
+							"code": 41113,
+							"name": "Nursery stock and plant merchant wholesalers"
+						},{
+							"code": 41119,
+							"name": "Other farm product merchant wholesalers"
+						}
+					]
+				}
+
+
+
+			]
+		},{
+			"code": 412,
+			"name": "Petroleum and petroleum products merchant wholesalers",
+			"subsectors":
+			[
+				{
+					"code": 4121,
+					"name": "Petroleum and petroleum products merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41211,
+							"name": "Petroleum and petroleum products merchant wholesalers"
+						}
+					]
+				}
+
+
+
+			]
+		},{
+			"code": 413,
+			"name": "Food, beverage and tobacco merchant wholesalers",
+			"subsectors":
+			[
+				{
+					"code": 4131,
+					"name": "Food merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41311,
+							"name": "General-line food merchant wholesalers"
+						},{
+							"code": 41312,
+							"name": "Dairy and milk products merchant wholesalers"
+						},{
+							"code": 41313,
+							"name": "Poultry and egg merchant wholesalers"
+						},{
+							"code": 41314,
+							"name": "Fish and seafood product merchant wholesalers"
+						},{
+							"code": 41315,
+							"name": "Fresh fruit and vegetable merchant wholesalers"
+						},{
+							"code": 41316,
+							"name": "Red meat and meat product merchant wholesalers"
+						},{
+							"code": 41319,
+							"name": "Other specialty-line food merchant wholesalers"
+						}
+					]
+				},{
+					"code": 4132,
+					"name": "Beverage merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41321,
+							"name": "Non-alcoholic beverage merchant wholesalers"
+						},{
+							"code": 41322,
+							"name": "Alcoholic beverage merchant wholesalers"
+						}
+					]
+				},{
+					"code": 4133,
+					"name": "Cigarette and tobacco product merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41331,
+							"name": "Cigarette and tobacco product merchant wholesalers"
+						}
+
+					]
+				}
+			]
+		},{
+			"code": 414,
+			"name": "Personal and household goods merchant wholesalers",
+			"subsectors":
+			[
+				{
+					"code": 4141,
+					"name": "Textile, clothing and footwear merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41411,
+							"name": "Clothing and clothing accessories merchant wholesalers"
+						},{
+							"code": 41412,
+							"name": "Footwear merchant wholesalers"
+						},{
+							"code": 41413,
+							"name": "Piece goods, notions and other dry goods merchant wholesalers"
+						}
+					]
+				},{
+					"code": 4142,
+					"name": "Home entertainment equipment and household appliance merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41421,
+							"name": "Home entertainment equipment merchant wholesalers"
+						},{
+							"code": 41422,
+							"name": "Household appliance merchant wholesalers"
+						}
+					]
+				},{
+					"code": 4143,
+					"name": "Home furnishings merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41431,
+							"name": "China, glassware, crockery and pottery merchant wholesalers"
+						},{
+							"code": 41432,
+							"name": "Floor covering merchant wholesalers"
+						},{
+							"code": 41433,
+							"name": "Linen, drapery and other textile furnishings merchant wholesalers"
+						},{
+							"code": 41439,
+							"name": "Other home furnishings merchant wholesalers"
+						}
+					]
+				},{
+					"code": 4144,
+					"name": "Personal goods merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41441,
+							"name": "Jewellery and watch merchant wholesalers"
+						},{
+							"code": 41442,
+							"name": "Book, periodical and newspaper merchant wholesalers"
+						},{
+							"code": 41443,
+							"name": "Photographic equipment and supplies merchant wholesalers"
+						},{
+							"code": 41444,
+							"name": "Sound recording merchant wholesalers"
+						},{
+							"code": 41445,
+							"name": "Video recording merchant wholesalers"
+						},{
+							"code": 41446,
+							"name": "Toy and hobby goods merchant wholesalers"
+						},{
+							"code": 41447,
+							"name": "Amusement and sporting goods merchant wholesalers"
+						}
+					]
+				},{
+					"code": 4145,
+					"name": "Pharmaceuticals, toiletries, cosmetics and sundries merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41451,
+							"name": "Pharmaceuticals and pharmacy supplies merchant wholesalers"
+						},{
+							"code": 41452,
+							"name": "Toiletries, cosmetics and sundries merchant wholesalers"
+						}
+					]
+				}
+			]
+		},{
+			"code": 415,
+			"name": "Motor vehicle and motor vehicle parts and accessories merchant wholesalers",
+			"subsectors":
+			[
+				{
+					"code": 4151,
+					"name": "Motor vehicle merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41511,
+							"name": "New and used automobile and light-duty truck merchant wholesalers"
+						},{
+							"code": 41512,
+							"name": "Truck, truck tractor and bus merchant wholesalers"
+						},{
+							"code": 41519,
+							"name": "Recreational and other motor vehicles merchant wholesalers"
+						}
+					]
+				},	{
+					"code": 4152,
+					"name": "New motor vehicle parts and accessories merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41521,
+							"name": "Tire merchant wholesalers"
+						},{
+							"code": 41529,
+							"name": "Other new motor vehicle parts and accessories merchant wholesalers"
+						}
+					]
+				},	{
+					"code": 4153,
+					"name": "Used motor vehicle parts and accessories merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41531,
+							"name": "Used motor vehicle parts and accessories merchant wholesalers"
+						}
+					]
+				}
+			]
+		},{
+			"code": 416,
+			"name": "Building material and supplies merchant wholesalers",
+			"subsectors":
+			[
+				{
+					"code": 4161,
+					"name": "Electrical, plumbing, heating and air-conditioning equipment and supplies merchant",
+					"subsectors":
+					[
+						{
+							"code": 41611,
+							"name": "Electrical wiring and construction supplies merchant wholesalers"
+						},{
+							"code": 41612,
+							"name": "Plumbing, heating and air-conditioning equipment and supplies merchant wholesalers  "
+						}
+					]
+				},{
+					"code": 4162,
+					"name": "Metal service centres",
+					"subsectors":
+					[
+						{
+							"code": 41621,
+							"name": "Metal service centres"
+						}
+					]
+				},{
+					"code": 4163,
+					"name": "Lumber, millwork, hardware and other building supplies merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41631,
+							"name": "General-line building supplies merchant wholesalers"
+						},{
+							"code": 41632,
+							"name": "Lumber, plywood and millwork merchant wholesalers"
+						},{
+							"code": 41633,
+							"name": "Hardware merchant wholesalers"
+						},{
+							"code": 41634,
+							"name": "Paint, glass and wallpaper merchant wholesalers"
+						},{
+							"code": 41639,
+							"name": "Other specialty-line building supplies merchant wholesalers"
+						}
+					]
+				}
+			]
+		},{
+			"code": 417,
+			"name": "Machinery, equipment and supplies merchant wholesalers",
+			"subsectors":
+			[
+				{
+					"code": 4171,
+					"name": "Farm, lawn and garden machinery and equipment merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41711,
+							"name": "Farm, lawn and garden machinery and equipment merchant wholesalers"
+						}
+					]
+				},{
+					"code": 4172,
+					"name": "Construction, forestry, mining, and industrial machinery, equipment and supplies merchant",
+					"subsectors":
+					[
+						{
+							"code": 41721,
+							"name": "Construction and forestry machinery, equipment and supplies merchant wholesalers"
+						},{
+							"code": 41722,
+							"name": "Mining and oil and gas well machinery, equipment and supplies merchant wholesalers"
+						},{
+							"code": 41723,
+							"name": "Industrial machinery, equipment and supplies merchant wholesalers"
+						}
+					]
+				},{
+					"code": 4173,
+					"name": "Computer and communications equipment and supplies merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41731,
+							"name": "Computer, computer peripheral and pre-packaged software merchant wholesalers"
+						},{
+							"code": 41732,
+							"name": "Electronic components, navigational and communications equipment and supplies merchant wholesalers"
+						}
+					]
+				},{
+					"code": 4179,
+					"name": "Other machinery, equipment and supplies merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41791,
+							"name": "Office and store machinery and equipment merchant wholesalers"
+						},{
+							"code": 41792,
+							"name": "Service establishment machinery, equipment and supplies merchant wholesalers"
+						},{
+							"code": 41793,
+							"name": "Professional machinery, equipment and supplies merchant wholesalers"
+						},{
+							"code": 41799,
+							"name": "All other machinery, equipment and supplies merchant wholesalers"
+						}
+					]
+				}
+			]
+		},{
+			"code": 418,
+			"name": "Miscellaneous merchant wholesalers",
+			"subsectors":
+			[
+				{
+					"code": 4181,
+					"name": "Recyclable material merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41811,
+							"name": "Recyclable metal merchant wholesalers"
+						},{
+							"code": 41812,
+							"name": "Recyclable paper and paperboard merchant wholesalers"
+						},{
+							"code": 41819,
+							"name": "Other recyclable material merchant wholesalers"
+						}
+					]
+				},{
+					"code": 4182,
+					"name": "Paper, paper product and disposable plastic product merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41821,
+							"name": "Stationery and office supplies merchant wholesalers"
+						},{
+							"code": 41822,
+							"name": "Other paper and disposable plastic product merchant wholesalers"
+						}
+					]
+				},{
+					"code": 4183,
+					"name": "Agricultural supplies merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41831,
+							"name": "Agricultural feed merchant wholesalers"
+						},{
+							"code": 41832,
+							"name": "Seed merchant wholesalers"
+						},{
+							"code": 41839,
+							"name": "Agricultural chemical and other farm supplies merchant wholesalers"
+						}
+					]
+				},{
+					"code": 4184,
+					"name": "Chemical (except agricultural) and allied product merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41841,
+							"name": "Chemical (except agricultural) and allied product merchant wholesalers"
+						}
+					]
+				},{
+					"code": 4189,
+					"name": "Other miscellaneous merchant wholesalers",
+					"subsectors":
+					[
+						{
+							"code": 41891,
+							"name": "Log and wood chip merchant wholesalers"
+						},{
+							"code": 41892,
+							"name": "Mineral, ore and precious metal merchant wholesalers"
+						},{
+							"code": 41893,
+							"name": "Second-hand goods (except machinery and automotive) merchant wholesalers"
+						},{
+							"code": 41899,
+							"name": "All other merchant wholesalers"
+						}
+					]
+				}
+			]
+		},{
+			"code": 419,
+			"name": "Business-to-business electronic markets, and agents and brokers",
+			"subsectors":
+			[
+				{
+					"code": 4191,
+					"name": "Business-to-business electronic markets, and agents and brokers",
+					"subsectors":
+					[
+						{
+							"code": 41911,
+							"name": "Business-to-business electronic markets"
+						},{
+							"code": 41912,
+							"name": "Wholesale trade agents and brokers"
+						}
+					]
+				}
+			]
+		}
+	]
+},{
+	"sector": 44,
+	"name": "Retail trade",
+	"subsectors": [
+		{
+			"code": 441,
+			"name": "Motor vehicle and parts dealers",
+			"subsectors":
+			[
+				{
+					"code": 4411,
+					"name": "Automobile dealers",
+					"subsectors":
+					[
+						{
+							"code": 44111,
+							"name": "New car dealers"
+						},{
+							"code": 44112,
+							"name": "Used car dealers "
+						}
+					]
+				},{
+					"code": 4412,
+					"name": "Other motor vehicle dealers",
+					"subsectors":
+					[
+						{
+							"code": 44121,
+							"name": "Recreational vehicle dealers"
+						},{
+							"code": 44122,
+							"name": "Motorcycle, boat and other motor vehicle dealers"
+						}
+					]
+				},{
+					"code": 4413,
+					"name": "Automotive parts, accessories and tire stores",
+					"subsectors":
+					[
+						{
+							"code": 44131,
+							"name": "Automotive parts and accessories stores"
+						},{
+							"code": 44132,
+							"name": "Tire dealers"
+						}
+					]
+				}
+			]
+		},{
+			"code": 442,
+			"name": "Furniture and home furnishings stores",
+			"subsectors":
+			[
+				{
+					"code": 4421,
+					"name": "Furniture stores",
+					"subsectors":
+					[
+						{
+							"code": 4421,
+							"name": "Furniture stores"
+						}
+					]
+				},{
+					"code": 4422,
+					"name": "Home furnishings stores",
+					"subsectors":
+					[
+						{
+							"code": 44221,
+							"name": "Floor covering stores"
+						},{
+							"code": 44229,
+							"name": "Other home furnishings stores"
+						}
+					]
+				}
+			]
+		},{
+			"code": 443,
+			"name": "Electronics and appliance stores",
+			"subsectors":
+			[
+				{
+					"code": 4431,
+					"name": "Electronics and appliance stores",
+					"subsectors":
+					[
+						{
+							"code": 443143,
+							"name": "Appliance, television and other electronics stores"
+						},{
+							"code": 443144,
+							"name": "Computer and software stores"
+						},{
+							"code": 443145,
+							"name": "Camera and photographic supplies stores"
+						},{
+							"code": 443146,
+							"name": "Audio and video recordings stores"
+						}
+					]
+				}
+			]
+		},{
+			"code": 444,
+			"name": "Building material and garden equipment and supplies dealers",
+			"subsectors":
+			[
+				{
+					"code": 4441,
+					"name": "Building material and supplies dealers",
+					"subsectors":
+					[
+						{
+							"code": 44411,
+							"name": "Home centres"
+						},{
+							"code": 44412,
+							"name": "Paint and wallpaper stores"
+						},{
+							"code": 44413,
+							"name": "Hardware stores"
+						},{
+							"code": 44419,
+							"name": "Other building material dealers"
+						}
+					]
+				},{
+					"code": 4442,
+					"name": "Lawn and garden equipment and supplies stores",
+					"subsectors":
+					[
+						{
+							"code": 44421,
+							"name": "Outdoor power equipment stores"
+						},{
+							"code": 44422,
+							"name": "Nursery stores and garden centres"
+						}
+					]
+				}
+			]
+		},{
+			"code": 445,
+			"name": "Food and beverage stores",
+			"subsectors":
+			[
+				{
+					"code": 4451,
+					"name": "Grocery stores",
+					"subsectors":
+					[
+						{
+							"code": 44511,
+							"name": "Supermarkets and other grocery (except convenience) stores"
+						},{
+							"code": 44512,
+							"name": "Convenience stores"
+						}
+					]
+				},{
+					"code": 4452,
+					"name": "Specialty food stores",
+					"subsectors":
+					[
+						{
+							"code": 44521,
+							"name": "Meat markets"
+						},{
+							"code": 44522,
+							"name": "Fish and seafood markets"
+						},{
+							"code": 44523,
+							"name": "Fruit and vegetable markets"
+						},{
+							"code": 44529,
+							"name": "Other specialty food stores"
+						}
+					]
+				},{
+					"code": 4453,
+					"name": "Beer, wine and liquor stores",
+					"subsectors":
+					[
+						{
+							"code": 4453,
+							"name": "Beer, wine and liquor stores"
+						}
+					]
+				}
+			]
+		},{
+			"code": 446,
+			"name": "Health and personal care stores",
+			"subsectors":
+			[
+				{
+					"code": 4461,
+					"name": "Health and personal care stores"
+				}
+			]
+		},{
+			"code": 447,
+			"name": "Gasoline stations",
+			"subsectors":
+			[
+				{
+					"code": 4471,
+					"name": "Gasoline stations"
+				}
+			]
+		},{
+			"code": 448,
+			"name": "Clothing and clothing accessories stores",
+			"subsectors":
+			[
+				{
+					"code": 4481,
+					"name": "Clothing stores",
+					"subsectors":
+					[
+						{
+							"code": 44811,
+							"name": "Men's clothing stores"
+						},{
+							"code": 44812,
+							"name": "Women's clothing stores"
+						},{
+							"code": 44813,
+							"name": "Children's and infants' clothing stores"
+						},{
+							"code": 44814,
+							"name": "Family clothing stores"
+						},{
+							"code": 44815,
+							"name": "Clothing accessories stores"
+						},{
+							"code": 448191,
+							"name": "Fur stores"
+						},{
+							"code": 44819,
+							"name": "Other clothing stores"
+						}
+					]
+				},{
+					"code": 4482,
+					"name": "Shoe stores",
+					"subsectors":
+					[
+						{
+							"code": 44821,
+							"name": "Shoe Stores"
+						}
+					]
+				},{
+					"code": 4483,
+					"name": "Jewellery, luggage and leather goods stores",
+					"subsectors":
+					[
+						{
+							"code": 44831,
+							"name": "Jewellery stores"
+						},{
+							"code": 44832,
+							"name": "Luggage and leather goods stores"
+						}
+					]
+				}
+			]
+		},{
+			"code": 451,
+			"name": "Sporting goods, hobby, book and music stores",
+			"subsectors":
+			[
+				{
+					"code": 4511,
+					"name": "Sporting goods, hobby and musical instrument stores",
+					"subsectors":
+					[
+						{
+							"code": 451111,
+							"name": "Golf equipment and supplies specialty stores"
+						},{
+							"code": 451112,
+							"name": "Ski equipment and supplies specialty stores"
+						},{
+							"code": 451113,
+							"name": "Cycling equipment and supplies specialty stores"
+						},{
+							"code": 451119,
+							"name": "All other sporting goods stores"
+						},{
+							"code": 45112,
+							"name": "Hobby, toy and game stores"
+						},{
+							"code": 45113,
+							"name": "Sewing, needlework and piece goods stores"
+						},{
+							"code": 45114,
+							"name": "Musical instrument and supplies stores"
+						}
+					]
+				},{
+					"code": 4513,
+					"name": "Book stores and news dealers",
+					"subsectors":
+					[
+							{
+								"code": 45131,
+								"name": "Book stores and news dealers"
+							}
+					]
+				}
+			]
+		},{
+			"code": 452,
+			"name": "General merchandise stores",
+			"subsectors":
+			[
+				{
+					"code": 4521,
+					"name": "Department stores",
+					"subsectors":
+					[
+						{
+							"code": 45211,
+							"name": "Department stores"
+						}
+					]
+				},{
+					"code": 4529,
+					"name": "Other general merchandise stores",
+					"subsectors":
+					[
+						{
+							"code": 45291,
+							"name": "Warehouse clubs"
+						},{
+							"code": 452991,
+							"name": "Home and auto supplies stores"
+						},{
+							"code": 452999,
+							"name": "All other miscellaneous general merchandise stores"
+						}
+					]
+				}
+			]
+		},{
+			"code": 453,
+			"name": "Miscellaneous store retailers",
+			"subsectors":
+			[
+				{
+					"code": 4531,
+					"name": "Florists",
+					"subsectors":
+					[
+						{
+							"code": 45311,
+							"name": "Florists"
+						}
+					]
+				},{
+					"code": 4532,
+					"name": "Office supplies, stationery and gift stores",
+					"subsectors":
+					[
+						{
+							"code": 45321,
+							"name": "Office supplies and stationery stores"
+						},{
+							"code": 45322,
+							"name": "Gift, novelty and souvenir stores"
+						}
+					]
+				},{
+					"code": 4533,
+					"name": "Used merchandise stores",
+					"subsectors":
+					[
+						{
+							"code": 45331,
+							"name": "Used merchandise stores"
+						}
+					]
+				},{
+					"code": 4539,
+					"name": "Other miscellaneous store retailers",
+					"subsectors":
+					[
+						{
+							"code": 45391,
+							"name": "Pet and pet supplies stores"
+						},{
+							"code": 45392,
+							"name": "Art dealers"
+						},{
+							"code": 45393,
+							"name": "Mobile home dealers"
+						},{
+							"code": 453992,
+							"name": "Beer and wine-making supplies stores"
+						},{
+							"code": 453999,
+							"name": "All other miscellaneous store retailers (except beer and wine-making supplies stores)"
+						}
+					]
+				}
+			]
+		},{
+			"code": 454,
+			"name": "Non-store retailers",
+			"subsectors":
+			[
+				{
+					"code": 4541,
+					"name": "Electronic shopping and mail-order houses",
+					"subsectors":
+					[
+						{
+							"code": 45411,
+							"name": "Electronic shopping and mail-order houses"
+						}
+					]
+				},{
+					"code": 4542,
+					"name": "Vending machine operators",
+					"subsectors":
+					[
+						{
+							"code": 45421,
+							"name": "Vending machine operators"
+						}
+					]
+				},{
+					"code": 4543,
+					"name": "Direct selling establishments",
+					"subsectors":
+					[
+						{
+							"code": 45431,
+							"name": "Fuel dealers"
+						},{
+							"code": 45439,
+							"name": "Other direct selling establishments"
+						}
+					]
+				}
+			]
+		}
+	]
+},{
+	"sector": 48,
+	"name": "Transportation and warehousing",
+	"subsectors":
+	[
+		{
+			"code": 481,
+			"name": "Air transportation",
+			"subsectors":
+			[
+				{
+					"code": 4811,
+					"name": "Scheduled air transportation",
+					"subsectors":
+					[
+						{
+							"code": 48111,
+							"name": "Scheduled air transportation"
+						}
+					]
+				},{
+					"code": 4812,
+					"name": "Non-scheduled air transportation",
+					"subsectors":
+					[
+						{
+							"code": 48121,
+							"name": "Non-scheduled air transportation"
+						}
+					]
+				}
+			]
+		},{
+			"code": 482,
+			"name": "Rail transportation",
+			"subsectors":
+			[
+				{
+					"code": 4821,
+					"name": "Rail transportation",
+					"subsectors":
+					[
+						{
+							"code": 48211,
+							"name": "Rail transportation"
+						}
+					]
+				}
+			]
+		},{
+			"code": 483,
+			"name": "Water transportation",
+			"subsectors":
+			[
+				{
+					"code": 4831,
+					"name": "Deep sea, coastal and Great Lakes water transportation",
+					"subsectors":
+					[
+						{
+							"code": 48311,
+							"name": "Deep sea, coastal and Great Lakes water transportation"
+						}
+					]
+				},{
+					"code": 4832,
+					"name": "Inland water transportation",
+					"subsectors":
+					[
+						{
+							"code": 48321,
+							"name": "Inland water transportation"
+						}
+					]
+				}
+			]
+		},{
+			"code": 484,
+			"name": "Truck transportation",
+			"subsectors":
+			[
+				{
+					"code": 4841,
+					"name": "General freight trucking",
+					"subsectors":
+					[
+						{
+							"code": 48411,
+							"name": "General freight trucking, local"
+						},{
+							"code": 48412,
+							"name": "General freight trucking, long distance"
+						}
+					]
+				},{
+					"code": 4842,
+					"name": "Specialized freight trucking",
+					"subsectors":
+					[
+						{
+							"code": 48421,
+							"name": "Used household and office goods moving"
+						},{
+							"code": 48422,
+							"name": "Specialized freight (except used goods) trucking, local"
+						},{
+							"code": 48423,
+							"name": "Specialized freight (except used goods) trucking, long distance"
+						}
+					]
+				}
+			]
+		},{
+			"code": 485,
+			"name": "Transit and ground passenger transportation",
+			"subsectors":
+			[
+				{
+					"code": 4851,
+					"name": "Urban transit systems",
+					"subsectors":
+					[
+						{
+							"code": 48511,
+							"name": "Urban transit systems"
+						}
+					]
+				},{
+					"code": 4852,
+					"name": "Interurban and rural bus transportation",
+					"subsectors":
+					[
+						{
+							"code": 48521,
+							"name": "Interurban and rural bus transportation"
+						}
+					]
+				},{
+					"code": 4853,
+					"name": "Taxi and limousine service",
+					"subsectors":
+					[
+						{
+							"code": 48531,
+							"name": "Taxi service"
+						},{
+							"code": 48532,
+							"name": "Limousine service"
+						}
+					]
+				},{
+					"code": 4854,
+					"name": "School and employee bus transportation",
+					"subsectors":
+					[
+						{
+							"code": 48541,
+							"name": "School and employee bus transportation"
+						}
+					]
+				},{
+					"code": 4855,
+					"name": "Charter bus industry",
+					"subsectors":
+					[
+						{
+							"code": 48551,
+							"name": "Charter bus industry"
+						}
+					]
+				},{
+					"code": 4859,
+					"name": "Other transit and ground passenger transportation",
+					"subsectors":
+					[
+						{
+							"code": 48591,
+							"name": "Other transit and ground passenger transportation"
+						}
+					]
+				}
+			]
+		},{
+			"code": 486,
+			"name": "Pipeline transportation",
+			"subsectors":
+			[
+				{
+					"code": 4861,
+					"name": "Pipeline transportation of crude oil",
+					"subsectors":
+					[
+						{
+							"code": 48611,
+							"name": "Pipeline transportation of crude oil"
+						}
+					]
+				},{
+					"code": 4862,
+					"name": "Pipeline transportation of natural gas",
+					"subsectors":
+					[
+						{
+							"code": 48621,
+							"name": "Pipeline transportation of natural gas"
+						}
+					]
+				},{
+					"code": 4869,
+					"name": "Other pipeline transportation",
+					"subsectors":
+					[
+						{
+							"code": 48691,
+							"name": "Other pipeline transportation"
+						}
+					]
+				}
+			]
+		},{
+			"code": 487,
+			"name": "Scenic and sightseeing transportation",
+			"subsectors":
+			[
+				{
+					"code": 4871,
+					"name": "Scenic and sightseeing transportation, land",
+					"subsectors":
+					[
+						{
+							"code": 48711,
+							"name": "Scenic and sightseeing transportation, land"
+						}
+					]
+				},{
+					"code": 4872,
+					"name": "Scenic and sightseeing transportation, water",
+					"subsectors":
+					[
+						{
+							"code": 48721,
+							"name": "Scenic and sightseeing transportation, water"
+						}
+					]
+				},{
+					"code": 4879,
+					"name": "Scenic and sightseeing transportation, other",
+					"subsectors":
+					[
+						{
+							"code": 48799,
+							"name": "Scenic and sightseeing transportation, other"
+						}
+					]
+				}
+			]
+		},{
+			"code": 488,
+			"name": "Support activities for transportation",
+			"subsectors":
+			[
+				{
+					"code": 4881,
+					"name": "Support activities for air transportation",
+					"subsectors":
+					[
+						{
+							"code": 48811,
+							"name": "Airport operations"
+						},{
+							"code": 48819,
+							"name": "Other support activities for air transportation"
+						}
+					]
+				},{
+					"code": 4882,
+					"name": "Support activities for rail transportation",
+					"subsectors":
+					[
+						{
+							"code": 48821,
+							"name": "Support activities for rail transportation"
+						}
+					]
+				},{
+					"code": 4883,
+					"name": "Support activities for water transportation",
+					"subsectors":
+					[
+						{
+							"code": 48831,
+							"name": "Port and harbour operations"
+						},{
+							"code": 48832,
+							"name": "Marine cargo handling"
+						},{
+							"code": 48833,
+							"name": "Navigational services to shipping"
+						},{
+							"code": 48839,
+							"name": "Other support activities for water transportation"
+						}
+					]
+				},{
+					"code": 4884,
+					"name": "Support activities for road transportation",
+					"subsectors":
+					[
+						{
+							"code": 48841,
+							"name": "Motor vehicle towing"
+						},{
+							"code": 48849,
+							"name": "Other support activities for road transportation"
+						}
+					]
+				},{
+					"code": 4885,
+					"name": "Freight transportation arrangement",
+					"subsectors":
+					[
+						{
+							"code": 48851,
+							"name": "Freight transportation arrangement"
+						}
+					]
+				},{
+					"code": 4889,
+					"name": "Other support activities for transportation",
+					"subsectors":
+					[
+						{
+							"code": 48899,
+							"name": "Other support activities for transportation"
+						}
+					]
+				}
+			]
+		},{
+			"code": 491,
+			"name": "Postal service",
+			"subsectors":
+			[
+				{
+					"code": 4911,
+					"name": "Postal service",
+					"subsectors":
+					[
+						{
+							"code": 49111,
+							"name": "Postal service"
+						}
+					]
+				}
+
+			]
+		},{
+			"code": 492,
+			"name": "Couriers and messengers",
+			"subsectors":
+			[
+				{
+					"code": 4921,
+					"name": "Couriers",
+					"subsectors":
+					[
+						{
+							"code": 49211,
+							"name": "Couriers"
+						}
+					]
+				},{
+					"code": 4922,
+					"name": "Local messengers and local delivery",
+					"subsectors":
+					[
+						{
+							"code": 49221,
+							"name": "Local messengers and local delivery"
+						}
+					]
+				}
+			]
+		},{
+			"code": 493,
+			"name": "Warehousing and storage",
+			"subsectors":
+			[
+				{
+					"code": 4931,
+					"name": "Warehousing and storage",
+					"subsectors":
+					[
+						{
+							"code": 49311,
+							"name": "General warehousing and storage"
+						},{
+							"code": 49312,
+							"name": "Refrigerated warehousing and storage"
+						},{
+							"code": 49313,
+							"name": "Farm product warehousing and storage"
+						},{
+							"code": 49319,
+							"name": "Other warehousing and storage"
+						}
+					]
+				}
+			]
+		}
+	]
+},{
+	"sector": 51,
+	"name": "Information and cultural industries",
+	"subsectors":
+	[
+		{
+			"code": 511,
+			"name": "Publishing industries (except internet)",
+			"subsectors":
+			[
+				{
+					"code": 5111,
+					"name": "Newspaper, periodical, book and directory publishers",
+					"subsectors":
+					[
+						{
+							"code": 51111,
+							"name": "Newspaper publishers"
+						},{
+							"code": 51112,
+							"name": "Periodical publishers"
+						},{
+							"code": 51113,
+							"name": "Book publishers"
+						},{
+							"code": 51114,
+							"name": "Directory and mailing list publishers"
+						},{
+							"code": 51119,
+							"name": "Other publishers"
+						}
+					]
+				},{
+					"code": 5112,
+					"name": "Software publishers",
+					"subsectors":
+					[
+						{
+							"code": 511211,
+							"name": "Software publishers (except video game publishers)"
+						},{
+							"code": 511212,
+							"name": "Video game publishers"
+						}
+					]
+				}
+			]
+		},{
+			"code": 512,
+			"name": "Motion picture and sound recording industries",
+			"subsectors":
+			[
+				{
+					"code": 5121,
+					"name": "Motion picture and video industries",
+					"subsectors":
+					[
+						{
+							"code": 51211,
+							"name": "Motion picture and video production"
+						},{
+							"code": 51212,
+							"name": "Motion picture and video distribution"
+						},{
+							"code": 51213,
+							"name": "Motion picture and video exhibition"
+						},{
+							"code": 51219,
+							"name": "Post-production and other motion picture and video industries"
+						}
+					]
+				},{
+					"code": 5122,
+					"name": "Sound recording industries",
+					"subsectors":
+					[
+						{
+							"code": 51221,
+							"name": "Record production"
+						},{
+							"code": 51222,
+							"name": "Integrated record production/distribution"
+						},{
+							"code": 51223,
+							"name": "Music publishers"
+						},{
+							"code": 51224,
+							"name": "Sound recording studios"
+						},{
+							"code": 51229,
+							"name": "Other sound recording industries"
+						}
+					]
+				}
+			]
+		},{
+			"code": 515,
+			"name": "Broadcasting (except internet)",
+			"subsectors":
+			[
+				{
+					"code": 5151,
+					"name": "Radio and television broadcasting",
+					"subsectors":
+					[
+						{
+							"code": 51511,
+							"name": "Radio broadcasting"
+						},{
+							"code": 51512,
+							"name": "Television broadcasting"
+						}
+					]
+				},{
+					"code": 5152,
+					"name": "Pay and specialty television",
+					"subsectors":
+					[
+						{
+							"code": 51521,
+							"name": "Pay and specialty television"
+						}
+					]
+				}
+			]
+		},{
+			"code": 517,
+			"name": "Telecommunications",
+			"subsectors":
+			[
+				{
+					"code": 5171,
+					"name": "Wired telecommunications carriers",
+					"subsectors":
+					[
+						{
+							"code": 51711,
+							"name": "Wired telecommunications carriers"
+						}
+					]
+				},{
+					"code": 5172,
+					"name": "Wireless telecommunications carriers (except satellite)",
+					"subsectors":
+					[
+						{
+							"code": 51721,
+							"name": "Wireless telecommunications carriers (except satellite)"
+						}
+					]
+				},{
+					"code": 5174,
+					"name": "Satellite telecommunications",
+					"subsectors":
+					[
+						{
+							"code": 51741,
+							"name": "Satellite telecommunications"
+						}
+					]
+				},{
+					"code": 5179,
+					"name": "Other telecommunications",
+					"subsectors":
+					[
+						{
+							"code": 51791,
+							"name": "Other telecommunications"
+						}
+					]
+				}
+			]
+		},{
+			"code": 518,
+			"name": "Data processing, hosting, and related services",
+			"subsectors":
+			[
+				{
+					"code": 51821,
+					"name": "Data processing, hosting, and related services"
+				}
+			]
+		},{
+			"code": 519,
+			"name": "Other information services",
+			"subsectors":
+			[
+				{
+					"code": 5191,
+					"name": "Other information services",
+					"subsectors":
+					[
+						{
+							"code": 51911,
+							"name": "News syndicates"
+						},{
+							"code": 51912,
+							"name": "Libraries and archives"
+						},{
+							"code": 51913,
+							"name": "Internet publishing and broadcasting, and web search portals"
+						},{
+							"code": 51919,
+							"name": "All other information services"
+						}
+					]
+				}
+			]
+		}
+	]
+},{
+	"sector": 52,
+	"name": "Finance and insurance",
+	"subsectors": [
+		{
+			"code": 521,
+			"name": "Monetary authorities - central bank",
+			"subsectors":
+			[
+				{
+					"code": 5211,
+					"name": "Monetary authorities - central bank",
+					"subsectors":
+					[
+						{
+							"code": 52111,
+							"name": "Monetary authorities - central bank"
+						}
+					]
+				}
+
+			]
+		},{
+			"code": 522,
+			"name": "Credit intermediation and related activities",
+			"subsectors":
+			[
+				{
+					"code": 5221,
+					"name": "Depository credit intermediation",
+					"subsectors":
+					[
+						{
+							"code": 522111,
+							"name": "Personal and commercial banking industry"
+						},{
+							"code": 522112,
+							"name": "Corporate and institutional banking industry"
+						},{
+							"code": 52213,
+							"name": "Local credit unions"
+						},{
+							"code": 52219,
+							"name": "Other depository credit intermediation"
+						}
+					]
+				},{
+					"code": 5222,
+					"name": "Non-depository credit intermediation",
+					"subsectors":
+					[
+						{
+							"code": 52221,
+							"name": "Credit card issuing"
+						},{
+							"code": 52222,
+							"name": "Sales financing"
+						},{
+							"code": 52229,
+							"name": "Other non-depository credit intermediation"
+						}
+					]
+				},{
+					"code": 5223,
+					"name": "Activities related to credit intermediation",
+					"subsectors":
+					[
+						{
+							"code": 52231,
+							"name": "Mortgage and non-mortgage loan brokers"
+						},{
+							"code": 52232,
+							"name": "Financial transactions processing, reserve and clearing house activities"
+						},{
+							"code": 52239,
+							"name": "Other activities related to credit intermediation"
+						}
+					]
+				}
+			]
+		},{
+			"code": 523,
+			"name": "Securities, commodity contracts, and other financial investment and related activities",
+			"subsectors":
+			[
+				{
+					"code": 5231,
+					"name": "Securities and commodity contracts intermediation and brokerage",
+					"subsectors":
+					[
+						{
+							"code": 52311,
+							"name": "Investment banking and securities dealing"
+						},{
+							"code": 52312,
+							"name": "Securities brokerage"
+						},{
+							"code": 52313,
+							"name": "Commodity contracts dealing"
+						},{
+							"code": 52314,
+							"name": "Commodity contracts brokerage"
+						}
+					]
+				},{
+					"code": 5232,
+					"name": "Securities and commodity exchanges",
+					"subsectors":
+					[
+						{
+							"code": 52321,
+							"name": "Securities and commodity exchanges"
+						}
+
+					]
+				},{
+					"code": 5239,
+					"name": "Other financial investment activities",
+					"subsectors":
+					[
+						{
+							"code": 52391,
+							"name": "Miscellaneous intermediation"
+						},{
+							"code": 52392,
+							"name": "Portfolio management"
+						},{
+							"code": 52393,
+							"name": "Investment advice"
+						},{
+							"code": 52399,
+							"name": "All other financial investment activities"
+						}
+					]
+				}
+			]
+		},{
+			"code": 524,
+			"name": "Insurance carriers and related activities",
+			"subsectors":
+			[
+				{
+					"code": 5241,
+					"name": "Insurance carriers",
+					"subsectors":
+					[
+						{
+							"code": 52411,
+							"name": "Direct life, health and medical insurance carriers"
+						},{
+							"code": 52412,
+							"name": "Direct insurance (except life, health and medical) carriers"
+						},{
+							"code": 52413,
+							"name": "Reinsurance carriers"
+						}
+					]
+				},{
+					"code": 5242,
+					"name": "Agencies, brokerages and other insurance related activities",
+					"subsectors":
+					[
+						{
+							"code": 52421,
+							"name": "Insurance agencies and brokerages"
+						},{
+							"code": 52429,
+							"name": "Other insurance related activities"
+						}
+					]
+				}
+			]
+		},{
+			"code": 526,
+			"name": "Funds and other financial vehicles",
+			"subsectors":
+			[
+				{
+					"code": 5261,
+					"name": "Pension funds",
+					"subsectors":
+					[
+						{
+							"code": 526111,
+							"name": "Trusteed pension funds"
+						},{
+							"code": 526112,
+							"name": "Non-trusteed pension funds"
+						}
+					]
+				},{
+					"code": 5269,
+					"name": "Other funds and financial vehicles",
+					"subsectors":
+					[
+						{
+							"code": 52691,
+							"name": "Open-end investment funds"
+						},{
+							"code": 52693,
+							"name": "Segregated (except pension) funds"
+						},{
+							"code": 52698,
+							"name": "All other funds and financial vehicles"
+						}
+					]
+				}
+			]
+		}
+	]
+},{
+	"sector": 53,
+	"name": "Real estate and rental and leasing",
+	"subsectors": [
+		{
+			"code": 531,
+			"name": "Real estate",
+			"subsectors":
+			[
+				{
+					"code": 5311,
+					"name": "Lessors of real estate",
+					"subsectors":
+					[
+						{
+							"code": 53111,
+							"name": "Lessors of residential buildings and dwellings"
+						},{
+							"code": 53112,
+							"name": "Lessors of non-residential buildings (except mini-warehouses)"
+						},{
+							"code": 53113,
+							"name": "Self-storage mini-warehouses"
+						},{
+							"code": 53119,
+							"name": "Lessors of other real estate property"
+						}
+					]
+				},{
+					"code": 5312,
+					"name": "Offices of real estate agents and brokers",
+					"subsectors":
+					[
+						{
+							"code": 531211,
+							"name": "Real estate agents"
+						},{
+							"code": 531212,
+							"name": "Offices of real estate brokers"
+						}
+					]
+				},{
+					"code": 5313,
+					"name": "Activities related to real estate",
+					"subsectors":
+					[
+						{
+							"code": 53131,
+							"name": "Real estate property managers"
+						},{
+							"code": 53132,
+							"name": "Offices of real estate appraisers"
+						},{
+							"code": 53139,
+							"name": "Other activities related to real estate"
+						}
+					]
+				}
+			]
+		},{
+			"code": 532,
+			"name": "Rental and leasing services",
+			"subsectors":
+			[
+				{
+					"code": 5321,
+					"name": "Automotive equipment rental and leasing",
+					"subsectors":
+					[
+						{
+							"code": 53211,
+							"name": "Passenger car rental and leasing"
+						},{
+							"code": 53212,
+							"name": "Truck, utility trailer and RV (recreational vehicle) rental and leasing"
+						}
+					]
+				},{
+					"code": 5322,
+					"name": "Consumer goods rental",
+					"subsectors":
+					[
+						{
+							"code": 53221,
+							"name": "Consumer electronics and appliance rental"
+						},{
+							"code": 53222,
+							"name": "Formal wear and costume rental"
+						},{
+							"code": 53223,
+							"name": "Video tape and disc rental"
+						},{
+							"code": 53229,
+							"name": "Other consumer goods rental"
+						}
+					]
+				},{
+					"code": 5323,
+					"name": "General rental centres",
+					"subsectors":
+					[
+						{
+							"code": 53231,
+							"name": "General rental centres"
+						}
+					]
+				},{
+					"code": 5324,
+					"name": "Commercial and industrial machinery and equipment rental and leasing",
+					"subsectors":
+					[
+						{
+							"code": 53241,
+							"name": "Construction, transportation, mining, and forestry machinery and equipment rental andleasing"
+						},{
+							"code": 53242,
+							"name": "Office machinery and equipment rental and leasing"
+						},{
+							"code": 53249,
+							"name": "Other commercial and industrial machinery and equipment rental and leasing"
+						}
+					]
+				}
+			]
+		},{
+			"code": 533,
+			"name": "Lessors of non-financial intangible assets (except copyrighted works)",
+			"subsectors":
+			[
+				{
+					"code": 5331,
+					"name": "Lessors of non-financial intangible assets (except copyrighted works)",
+					"subsectors":
+					[
+						{
+							"code": 53311,
+							"name": "Lessors of non-financial intangible assets (except copyrighted works)"
+						}
+					]
+				}
+
+
+			]
+		}
+	]
+},{
+	"sector": 54,
+	"name": "Professional, scientific and technical services",
+	"subsectors": [
+		{
+			"code": 541,
+			"name": "Professional, scientific and technical services",
+			"subsectors":
+			[
+				{
+					"code": 5411,
+					"name": "Legal services",
+					"subsectors":
+					[
+						{
+							"code": 54111,
+							"name": "Offices of lawyers"
+						},{
+							"code": 54112,
+							"name": "Offices of notaries"
+						},{
+							"code": 54119,
+							"name": "Other legal services"
+						}
+					]
+				},{
+					"code": 5412,
+					"name": "Accounting, tax preparation, bookkeeping and payroll services",
+					"subsectors":
+					[
+						{
+							"code": 541212,
+							"name": "Offices of accountants"
+						},{
+							"code": 541213,
+							"name": "Tax preparation services"
+						},{
+							"code": 541215,
+							"name": "Bookkeeping, payroll and related services"
+						}
+					]
+				},{
+					"code": 5413,
+					"name": "Architectural, engineering and related services",
+					"subsectors":
+					[
+						{
+							"code": 54131,
+							"name": "Architectural services"
+						},{
+							"code": 54132,
+							"name": "Landscape architectural services"
+						},{
+							"code": 54133,
+							"name": "Engineering services"
+						},{
+							"code": 54134,
+							"name": "Drafting services"
+						},{
+							"code": 54135,
+							"name": "Building inspection services"
+						},{
+							"code": 54136,
+							"name": "Geophysical surveying and mapping services"
+						},{
+							"code": 54137,
+							"name": "Surveying and mapping (except geophysical) services"
+						},{
+							"code": 54138,
+							"name": "Testing laboratories"
+						}
+					]
+				},{
+					"code": 5414,
+					"name": "Specialized design services",
+					"subsectors":
+					[
+						{
+							"code": 54141,
+							"name": "Interior design services"
+						},{
+							"code": 54142,
+							"name": "Industrial design services"
+						},{
+							"code": 54143,
+							"name": "Graphic design services"
+						},{
+							"code": 54149,
+							"name": "Other specialized design services"
+						}
+					]
+				},{
+					"code": 5415,
+					"name": "Computer systems design and related services",
+					"subsectors":
+					[
+						{
+							"code": 54151,
+							"name": "Computer systems design and related services"
+						}
+					]
+				},{
+					"code": 5416,
+					"name": "Management, scientific and technical consulting services",
+					"subsectors":
+					[
+						{
+							"code": 54161,
+							"name": "Management, scientific and technical consulting services"
+						},{
+							"code": 54162,
+							"name": "Environmental consulting services"
+						},{
+							"code": 54169,
+							"name": "Other scientific and technical consulting services"
+						}
+					]
+				},{
+					"code": 5417,
+					"name": "Scientific research and development services",
+					"subsectors":
+					[
+						{
+							"code": 54171,
+							"name": "Research and development in the physical, engineering and life sciences"
+						},{
+							"code": 54172,
+							"name": "Research and development in the social sciences and humanities"
+						}
+					]
+				},{
+					"code": 5418,
+					"name": "Advertising, public relations, and related services",
+					"subsectors":
+					[
+						{
+							"code": 54181,
+							"name": "Advertising agencies"
+						},{
+							"code": 54182,
+							"name": "Public relations services"
+						},{
+							"code": 54183,
+							"name": "Media buying agencies"
+						},{
+							"code": 54184,
+							"name": "Media representatives"
+						},{
+							"code": 54185,
+							"name": "Display advertising"
+						},{
+							"code": 54186,
+							"name": "Direct mail advertising"
+						},{
+							"code": 54187,
+							"name": "Advertising material distribution services"
+						},{
+							"code": 54189,
+							"name": "Other services related to advertising"
+						}
+					]
+				},{
+					"code": 5419,
+					"name": "Other professional, scientific and technical services",
+					"subsectors":
+					[
+						{
+							"code": 54191,
+							"name": "Marketing research and public opinion polling"
+						},{
+							"code": 54192,
+							"name": "Photographic services"
+						},{
+							"code": 54193,
+							"name": "Translation and interpretation services"
+						},{
+							"code": 54194,
+							"name": "Veterinary services"
+						},{
+							"code": 54199,
+							"name": "All other professional, scientific and technical services"
+						}
+					]
+				}
+			]
+		}
+	]
+},{
+	"sector": 55,
+	"name": "Management of companies and enterprises",
+	"subsectors": [
+		{
+			"code": 551,
+			"name": "Management of companies and enterprises",
+			"subsectors":
+			[
+				{
+					"code": 5511,
+					"name": "Management of companies and enterprises",
+					"subsectors":
+					[
+						{
+							"code": 55111,
+							"name" :"Management of companies and enterprises"
+						}
+					]
+				}
+			]
+		}
+	]
+},{
+	"sector": 56,
+	"name": "Waste management and remediation services",
+	"subsectors": [
+		{
+			"code": 561,
+			"name": "Administrative and support services",
+			"subsectors":
+			[
+				{
+					"code": 5611,
+					"name": "Office administrative services",
+					"subsectors":
+					[
+						{
+							"code": 56111,
+							"name": "Office administrative services"
+						}
+					]
+				},{
+					"code": 5612,
+					"name": "Facilities support services",
+					"subsectors":
+					[
+						{
+							"code": 56121,
+							"name": "Facilities support services"
+						}
+					]
+				},{
+					"code": 5613,
+					"name": "Employment services",
+					"subsectors":
+					[
+						{
+							"code": 56131,
+							"name": "Employment placement agencies and executive search services"
+						},{
+							"code": 56132,
+							"name": "Temporary help services"
+						},{
+							"code": 56133,
+							"name": "Professional employer organizations"
+						}
+					]
+				},{
+					"code": 5614,
+					"name": "Business support services",
+					"subsectors":
+					[
+						{
+							"code": 56141,
+							"name": "Document preparation services"
+						},{
+							"code": 56142,
+							"name": "Telephone call centres"
+						},{
+							"code": 56143,
+							"name": "Business service centres"
+						},{
+							"code": 56144,
+							"name": "Collection agencies"
+						},{
+							"code": 56145,
+							"name": "Credit bureaus"
+						},{
+							"code": 56149,
+							"name": "Other business support services"
+						}
+					]
+				},{
+					"code": 5615,
+					"name": "Travel arrangement and reservation services",
+					"subsectors":
+					[
+						{
+							"code": 56151,
+							"name": "Travel agencies"
+						},{
+							"code": 56152,
+							"name": "Tour operators"
+						},{
+							"code": 56159,
+							"name": "Other travel arrangement and reservation services"
+						}
+					]
+				},{
+					"code": 5616,
+					"name": "Investigation and security services",
+					"subsectors":
+					[
+						{
+							"code": 56161,
+							"name": "Investigation, guard and armoured car services"
+						},{
+							"code": 56162,
+							"name": "Security systems services"
+						}
+					]
+				},{
+					"code": 5617,
+					"name": "Services to buildings and dwellings",
+					"subsectors":
+					[
+						{
+							"code": 56171,
+							"name": "Exterminating and pest control services"
+						},{
+							"code": 56172,
+							"name": "Janitorial services"
+						},{
+							"code": 56173,
+							"name": "Landscaping services"
+						},{
+							"code": 56174,
+							"name": "Carpet and upholstery cleaning services"
+						},{
+							"code": 561791,
+							"name": "Duct and chimney cleaning services  CAN"
+						},{
+							"code": 561799,
+							"name": "All other services to buildings and dwellings  CAN"
+						}
+					]
+				},{
+					"code": 5619,
+					"name": "Other support services",
+					"subsectors":
+					[
+						{
+							"code": 56191,
+							"name": "Packaging and labelling services"
+						},{
+							"code": 56192,
+							"name": "Convention and trade show organizers"
+						},{
+							"code": 56199,
+							"name": "All other support services"
+						}
+					]
+				}
+			]
+		},{
+			"code": 562,
+			"name": "Waste management and remediation services",
+			"subsectors":
+			[
+				{
+					"code": 5621,
+					"name": "Waste collection",
+					"subsectors":
+					[
+						{
+							"code": 56211,
+							"name": "Waste collection"
+						}
+					]
+				},{
+					"code": 5622,
+					"name": "Waste treatment and disposal",
+					"subsectors":
+					[
+						{
+							"code": 56221,
+							"name": "Waste treatment and disposal"
+						}
+					]
+				},{
+					"code": 5629,
+					"name": "Remediation and other waste management services",
+					"subsectors":
+					[
+						{
+							"code": 56291,
+							"name": "Remediation services"
+						},{
+							"code": 56292,
+							"name": "Material recovery facilities"
+						},{
+							"code": 56299,
+							"name": "All other waste management services"
+						}
+					]
+				}
+			]
+		}
+	]
+},{
+	"sector": 61,
+	"name": "Educational services",
+	"subsectors": [
+		{
+			"code": 611,
+			"name": "Educational services",
+			"subsectors":
+			[
+				{
+					"code": 6111,
+					"name": "Elementary and secondary schools",
+					"subsectors":
+					[
+						{
+							"code": 61111,
+							"name": "Elementary and secondary schools"
+						}
+					]
+				},{
+					"code": 6112,
+					"name": "Community colleges and C.E.G.E.P.s",
+					"subsectors":
+					[
+						{
+							"code": 61121,
+							"name": "Community colleges and C.E.G.E.P.s"
+						}
+					]
+				},{
+					"code": 6113,
+					"name": "Universities",
+					"subsectors":
+					[
+						{
+							"code": 61131,
+							"name": "Universities"
+						}
+					]
+				},{
+					"code": 6114,
+					"name": "Business schools and computer and management training",
+					"subsectors":
+					[
+						{
+							"code": 61141,
+							"name": "Business and secretarial schools"
+						},{
+							"code": 61142,
+							"name": "Computer training"
+						},{
+							"code": 61143,
+							"name": "Professional and management development training"
+						}
+					]
+				},{
+					"code": 6115,
+					"name": "Technical and trade schools",
+					"subsectors":
+					[
+						{
+							"code": 61151,
+							"name": "Technical and trade schools"
+						}
+					]
+				},{
+					"code": 6116,
+					"name": "Other schools and instruction",
+					"subsectors":
+					[
+						{
+							"code": 61161,
+							"name": "Fine arts schools"
+						},{
+							"code": 61162,
+							"name": "Athletic instruction"
+						},{
+							"code": 61163,
+							"name": "Language schools"
+						},{
+							"code": 61169,
+							"name": "All other schools and instruction"
+						}
+					]
+				},{
+					"code": 6117,
+					"name": "Educational support services",
+					"subsectors":
+					[
+						{
+							"code": 61171,
+							"name": "Educational support services"
+						}
+					]
+				}
+			]
+		}
+	]
+},{
+	"sector": 62,
+	"name": "Health care and social assistance",
+	"subsectors": [
+		{
+			"code": 621,
+			"name": "Ambulatory health care services",
+			"subsectors":
+			[
+				{
+					"code": 6211,
+					"name": "Offices of physicians",
+					"subsectors":
+					[
+						{
+							"code": 62111,
+							"name": "Offices of physicians"
+						}
+					]
+				},{
+					"code": 6212,
+					"name": "Offices of dentists",
+					"subsectors":
+					[
+						{
+							"code": 62121,
+							"name": "Offices of dentists"
+						}
+					]
+				},{
+					"code": 6213,
+					"name": "Offices of other health practitioners",
+					"subsectors":
+					[
+						{
+							"code": 62131,
+							"name": "Offices of chiropractors"
+						},{
+							"code": 62132,
+							"name": "Offices of optometrists"
+						},{
+							"code": 62133,
+							"name": "Offices of mental health practitioners (except physicians)"
+						},{
+							"code": 62134,
+							"name": "Offices of physical, occupational, and speech therapists and audiologists"
+						},{
+							"code": 62139,
+							"name": "Offices of all other health practitioners"
+						}
+					]
+				},{
+					"code": 6214,
+					"name": "Out-patient care centres",
+					"subsectors":
+					[
+						{
+							"code": 62141,
+							"name": "Family planning centres"
+						},{
+							"code": 62142,
+							"name": "Out-patient mental health and substance abuse centres"
+						},{
+							"code": 62149,
+							"name": "Other out-patient care centres"
+						}
+					]
+				},{
+					"code": 6215,
+					"name": "Medical and diagnostic laboratories",
+					"subsectors":
+					[
+						{
+							"code": 62151,
+							"name": "Medical and diagnostic laboratories"
+						}
+					]
+				},{
+					"code": 6216,
+					"name": "Home health care services",
+					"subsectors":
+					[
+						{
+							"code": 62161,
+							"name": "Home health care services"
+						}
+					]
+				},{
+					"code": 6219,
+					"name": "Other ambulatory health care services",
+					"subsectors":
+					[
+						{
+							"code": 62191,
+							"name": "Ambulance services"
+						},{
+							"code": 62199,
+							"name": "All other ambulatory health care services"
+						}
+					]
+				}
+			]
+		},{
+			"code": 622,
+			"name": "Hospitals",
+			"subsectors":
+			[
+				{
+					"code": 6221,
+					"name": "General medical and surgical hospitals",
+					"subsectors":
+					[
+						{
+							"code": 622111,
+							"name": "General (except paediatric) hospitals"
+						},{
+							"code": 622112,
+							"name": "Paediatric hospitals"
+						}
+					]
+				},	{
+					"code": 6222,
+					"name": "Psychiatric and substance abuse hospitals",
+					"subsectors":
+					[
+						{
+							"code": 62221,
+							"name": "Psychiatric and substance abuse hospitals"
+						}
+					]
+				},	{
+					"code": 6223,
+					"name": "Specialty (except psychiatric and substance abuse) hospitals",
+					"subsectors":
+					[
+						{
+							"code": 62231,
+							"name": "Specialty (except psychiatric and substance abuse) hospitals"
+						}
+					]
+				}
+			]
+		},{
+			"code": 623,
+			"name": "Nursing and residential care facilities",
+			"subsectors":
+			[
+				{
+					"code": 6231,
+					"name": "Nursing care facilities",
+					"subsectors":
+					[
+						{
+							"code": 62311,
+							"name": "Nursing care facilities"
+						}
+					]
+				},{
+					"code": 6232,
+					"name": "Residential developmental handicap, mental health and substance abuse facilities",
+					"subsectors":
+					[
+						{
+							"code": 62321,
+							"name": "Residential developmental handicap facilities"
+						},{
+							"code": 623221,
+							"name": "Residential substance abuse facilities"
+						},{
+							"code": 623222,
+							"name": "Homes for the psychiatrically disabled"
+						}
+					]
+				},{
+					"code": 6233,
+					"name": "Community care facilities for the elderly",
+					"subsectors":
+					[
+						{
+							"code": 62331,
+							"name": "Community care facilities for the elderly"
+						}
+					]
+				},{
+					"code": 6239,
+					"name": "Other residential care facilities",
+					"subsectors":
+					[
+						{
+							"code": 623991,
+							"name": "Transition homes for women"
+						},{
+							"code": 623992,
+							"name": "Homes for emotionally disturbed children"
+						},{
+							"code": 623993,
+							"name": "Homes for the physically handicapped or disabled"
+						},{
+							"code": 623999,
+							"name": "All other residential care facilities"
+						}
+					]
+				}
+			]
+		},{
+			"code": 624,
+			"name": "Social assistance",
+			"subsectors":
+			[
+				{
+					"code": 6241,
+					"name": "Individual and family services",
+					"subsectors":
+					[
+						{
+							"code": 62411,
+							"name": "Child and youth services"
+						},{
+							"code": 62412,
+							"name": "Services for the elderly and persons with disabilities"
+						},{
+							"code": 62419,
+							"name": "Other individual and family services"
+						}
+					]
+				},{
+					"code": 6242,
+					"name": "Community food and housing, and emergency and other relief services",
+					"subsectors":
+					[
+						{
+							"code": 62421,
+							"name": "Community food services"
+						},{
+							"code": 62422,
+							"name": "Community housing services"
+						},{
+							"code": 62423,
+							"name": "Emergency and other relief services"
+						}
+					]
+				},{
+					"code": 6243,
+					"name": "Vocational rehabilitation services",
+					"subsectors":
+					[
+						{
+							"code": 62431,
+							"name": "Vocational rehabilitation services"
+						}
+					]
+				},{
+					"code": 6244,
+					"name": "Child day-care services",
+					"subsectors":
+					[
+						{
+							"code": 62441,
+							"name": "Child day-care services"
+						}
+					]
+				}
+			]
+		}
+	]
+},{
+	"sector": 71,
+	"name": "Arts, entertainment and recreation",
+	"subsectors": [
+		{
+			"code": 711,
+			"name": "Performing arts, spectator sports and related industries",
+			"subsectors":
+			[
+				{
+					"code": 7111,
+					"name": "Performing arts companies",
+					"subsectors":
+					[
+						{
+							"code": 71111,
+							"name": "Theatre companies and dinner theatres"
+						},{
+							"code": 71112,
+							"name": "Dance companies"
+						},{
+							"code": 71113,
+							"name": "Musical groups and artists"
+						},{
+							"code": 71119,
+							"name": "Other performing arts companies"
+						}
+					]
+				},{
+					"code": 7112,
+					"name": "Spectator sports",
+					"subsectors":
+					[
+						{
+							"code": 711211,
+							"name": "Sports teams and clubs"
+						},{
+							"code": 711213,
+							"name": "Horse race tracks"
+						},{
+							"code": 711218,
+							"name": "Other spectator sports"
+						}
+					]
+				},{
+					"code": 7113,
+					"name": "Promoters (presenters) of performing arts, sports and similar events",
+					"subsectors":
+					[
+						{
+							"code": 71131,
+							"name": "Promoters (presenters) of performing arts, sports and similar events with facilities"
+						},{
+							"code": 71132,
+							"name": "Promoters (presenters) of performing arts, sports and similar events without facilities"
+						}
+					]
+				},{
+					"code": 7114,
+					"name": "Agents and managers for artists, athletes, entertainers and other public figures",
+					"subsectors":
+					[
+						{
+							"code": 71141,
+							"name": "Agents and managers for artists, athletes, entertainers and other public figures"
+						}
+					]
+				},{
+					"code": 7115,
+					"name": "Independent artists, writers and performers",
+					"subsectors":
+					[
+						{
+							"code": 711511,
+							"name": "Independent visual artists and artisans"
+						},{
+							"code": 711512,
+							"name": "Independent actors, comedians and performers"
+						},{
+							"code": 711513,
+							"name": "Independent writers and authors  "
+						}
+					]
+				}
+			]
+		},{
+			"code": 712,
+			"name": "Heritage institutions",
+			"subsectors":
+			[
+				{
+					"code": 7121,
+					"name": "Heritage institutions",
+					"subsectors":
+					[
+						{
+							"code": 71211,
+							"name": "Museums"
+						},{
+							"code": 71212,
+							"name": "Historic and heritage sites"
+						},{
+							"code": 71213,
+							"name": "Zoos and botanical gardens"
+						},{
+							"code": 71219,
+							"name": "Nature parks and other similar institutions"
+						}
+					]
+				}
+			]
+		},{
+			"code": 713,
+			"name": "Amusement, gambling and recreation industries",
+			"subsectors":
+			[
+				{
+					"code": 7131,
+					"name": "Amusement parks and arcades",
+					"subsectors":
+					[
+						{
+							"code": 71311,
+							"name": "Amusement and theme parks"
+						},{
+							"code": 71312,
+							"name": "Amusement arcades"
+						}
+					]
+				},{
+					"code": 7132,
+					"name": "Gambling industries",
+					"subsectors":
+					[
+						{
+							"code": 71321,
+							"name": "Casinos (except casino hotels)"
+						},{
+							"code": 71329,
+							"name": "Other gambling industries"
+						}
+					]
+				},{
+					"code": 7139,
+					"name": "Other amusement and recreation industries",
+					"subsectors":
+					[
+						{
+							"code": 71391,
+							"name": "Golf courses and country clubs"
+						},{
+							"code": 71392,
+							"name": "Skiing facilities"
+						},{
+							"code": 71393,
+							"name": "Marinas"
+						},{
+							"code": 71394,
+							"name": "Fitness and recreational sports centres"
+						},{
+							"code": 71395,
+							"name": "Bowling centres"
+						},{
+							"code": 71399,
+							"name": "All other amusement and recreation industries"
+						}
+					]
+				}
+			]
+		}
+	]
+},{
+	"sector": 72,
+	"name": "Accommodation and food services",
+	"subsectors": [
+		{
+			"code": 721,
+			"name": "Accommodation services",
+			"subsectors":
+			[
+				{
+					"code": 7211,
+					"name": "Traveller accommodation",
+					"subsectors":
+					[
+						{
+							"code": 72111,
+							"name": "Hotels (except casino hotels) and motels"
+						},{
+							"code": 72112,
+							"name": "Casino hotels"
+						},{
+							"code": 72119,
+							"name": "Other traveller accommodation"
+						}
+					]
+				},{
+					"code": 7212,
+					"name": "Recreational vehicle parks and recreational camps",
+					"subsectors":
+					[
+						{
+							"code": 72121,
+							"name": "RV parks and recreational camps"
+						}
+					]
+				},{
+					"code": 7213,
+					"name": "Rooming and boarding houses",
+					"subsectors":
+					[
+						{
+							"code": 72131,
+							"name": "Rooming and boarding houses"
+						}
+					]
+				}
+			]
+		},{
+			"code": 722,
+			"name": "Food services and drinking places",
+			"subsectors":
+			[
+				{
+					"code": 7223,
+					"name": "Special food services",
+					"subsectors":
+					[
+						{
+							"code": 72231,
+							"name": "Food service contractors"
+						},{
+							"code": 72232,
+							"name": "Caterers"
+						},{
+							"code": 72233,
+							"name": "Mobile food services"
+						}
+					]
+				},{
+					"code": 7224,
+					"name": "Drinking places (alcoholic beverages)",
+					"subsectors":
+					[
+						{
+							"code": 72241,
+							"name": "Drinking places (alcoholic beverages)"
+						}
+					]
+				},{
+					"code": 7225,
+					"name": "Full-service restaurants and limited-service eating places",
+					"subsectors":
+					[
+						{
+							"code": 722511,
+							"name": "Full-service restaurants"
+						},{
+							"code": 722512,
+							"name": "Limited-service eating places"
+						}
+					]
+				}
+			]
+		}
+	]
+},{
+	"sector": 81,
+	"name": "Other services (except public administration)",
+	"subsectors":
+	[
+		{
+			"code": 811,
+			"name": "Repair and maintenance",
+			"subsectors":
+			[
+				{
+					"code": 8111,
+					"name": "Automotive repair and maintenance",
+					"subsectors":
+					[
+						{
+							"code": 81111,
+							"name": "Automotive mechanical and electrical repair and maintenance"
+						},{
+							"code": 81112,
+							"name": "Automotive body, paint, interior and glass repair"
+						},{
+							"code": 81119,
+							"name": "Other automotive repair and maintenance"
+						}
+					]
+				},{
+					"code": 8112,
+					"name": "Electronic and precision equipment repair and maintenance",
+					"subsectors":
+					[
+						{
+							"code": 81121,
+							"name": "Electronic and precision equipment repair and maintenance"
+						}
+					]
+				},{
+					"code": 8113,
+					"name": "Commercial and industrial machinery and equipment repair & maintenance",
+					"subsectors":
+					[
+						{
+							"code": 81131,
+							"name": "Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance"
+						}
+					]
+				},{
+					"code": 8114,
+					"name": "Personal and household goods repair and maintenance",
+					"subsectors":
+					[
+						{
+							"code": 81141,
+							"name": "Home and garden equipment and appliance repair and maintenance"
+						},{
+							"code": 81142,
+							"name": "Reupholstery and furniture repair"
+						},{
+							"code": 81143,
+							"name": "Footwear and leather goods repair"
+						},{
+							"code": 81149,
+							"name": "Other personal and household goods repair and maintenance"
+						}
+					]
+				}
+			]
+		},{
+			"code": 812,
+			"name": "Personal and laundry services",
+			"subsectors":
+			[
+				{
+					"code": 8121,
+					"name": "Personal care services",
+					"subsectors":
+					[
+						{
+							"code": 81211,
+							"name": "Hair care and esthetic services"
+						},{
+							"code": 81219,
+							"name": "Other personal care services"
+						}
+					]
+				},{
+					"code": 8122,
+					"name": "Funeral services",
+					"subsectors":
+					[
+						{
+							"code": 81221,
+							"name": "Funeral homes"
+						},{
+							"code": 81222,
+							"name": "Cemeteries and crematoria"
+						}
+					]
+				},{
+					"code": 8123,
+					"name": "Dry cleaning and laundry services",
+					"subsectors":
+					[
+						{
+							"code": 81231,
+							"name": "Coin-operated laundries and dry cleaners"
+						},{
+							"code": 81232,
+							"name": "Dry cleaning and laundry services (except coin-operated)"
+						},{
+							"code": 81233,
+							"name": "Linen and uniform supply"
+						}
+					]
+				},{
+					"code": 8129,
+					"name": "Other personal services",
+					"subsectors":
+					[
+						{
+							"code": 81291,
+							"name": "Pet care (except veterinary) services"
+						},{
+							"code": 81292,
+							"name": "Photo finishing services"
+						},{
+							"code": 81293,
+							"name": "Parking lots and garages"
+						},{
+							"code": 81299,
+							"name": "All other personal services"
+						}
+					]
+				}
+			]
+		},{
+			"code": 813,
+			"name": "Religious, grant-making, civic, and professional and similar organizations",
+			"subsectors":
+			[
+				{
+					"code": 8131,
+					"name": "Religious organizations",
+					"subsectors":
+					[
+						{
+							"code": 8131,
+							"name": "Religious organizations"
+						}
+					]
+				},{
+					"code": 8132,
+					"name": "Grant-making and giving services",
+					"subsectors":
+					[
+						{
+							"code": 8132,
+							"name": "Grant-making and giving services"
+						}
+					]
+				},{
+					"code": 8133,
+					"name": "Social advocacy organizations",
+					"subsectors":
+					[
+						{
+							"code": 8133,
+							"name": "Social advocacy organizations"
+						}
+					]
+				},{
+					"code": 8134,
+					"name": "Civic and social organizations",
+					"subsectors":
+					[
+						{
+							"code": 8134,
+							"name": "Civic and social organizations"
+						}
+					]
+				},{
+					"code": 8139,
+					"name": "Business, professional, labour and other membership organizations",
+					"subsectors":
+					[
+						{
+							"code": 81391,
+							"name": "Business associations"
+						},{
+							"code": 81392,
+							"name": "Professional organizations"
+						},{
+							"code": 81393,
+							"name": "Labour organizations"
+						},{
+							"code": 81394,
+							"name": "Political organizations"
+						},{
+							"code": 81399,
+							"name": "Other membership organizations"
+						}
+					]
+				}
+			]
+		},{
+			"code": 814,
+			"name": "Private households",
+			"subsectors":
+			[
+				{
+					"code": 8141,
+					"name": "Private households",
+					"subsectors":
+					[
+						{
+							"code": 81411,
+							"name": "Private households"
+						}
+					]
+				}
+			]
+		}
+	]
+},{
+	"sector": 91,
+	"name": "Public administration",
+	"subsectors":
+	[
+		{
+			"code": 911,
+			"name": "Federal government public administration",
+			"subsectors":
+			[
+				{
+					"code": 9111,
+					"name": "Defence services",
+					"subsectors":
+					[
+						{
+							"code": 91111,
+							"name": "Defence services"
+						}
+					]
+				},{
+					"code": 9112,
+					"name": "Federal protective services",
+					"subsectors":
+					[
+						{
+							"code": 91121,
+							"name": "Federal courts of law"
+						},{
+							"code": 91122,
+							"name": "Federal correctional services"
+						},{
+							"code": 91123,
+							"name": "Federal police services"
+						},{
+							"code": 91124,
+							"name": "Federal regulatory services"
+						},{
+							"code": 91129,
+							"name": "Other federal protective services"
+						}
+					]
+				},{
+					"code": 9113,
+					"name": "Federal labour, employment and immigration services",
+					"subsectors":
+					[
+						{
+							"code": 91131,
+							"name": "Federal labour and employment services"
+						},{
+							"code": 91132,
+							"name": "Immigration services"
+						},{
+							"code": 91139,
+							"name": "Other federal labour, employment and immigration services"
+						}
+					]
+				},{
+					"code": 9114,
+					"name": "Foreign affairs and international assistance",
+					"subsectors":
+					[
+						{
+							"code": 91141,
+							"name": "Foreign affairs"
+						},{
+							"code": 91142,
+							"name": "International assistance"
+						}
+					]
+				},{
+					"code": 9119,
+					"name": "Other federal government public administration",
+					"subsectors":
+					[
+						{
+							"code": 91191,
+							"name": "Other federal government public administration"
+						}
+					]
+				}
+			]
+		},{
+			"code": 912,
+			"name": "Provincial and territorial public administration",
+			"subsectors":
+			[
+				{
+					"code": 9121,
+					"name": "Provincial protective services",
+					"subsectors":
+					[
+						{
+							"code": 91211,
+							"name": "Provincial courts of law"
+						},{
+							"code": 91212,
+							"name": "Provincial correctional services"
+						},{
+							"code": 91213,
+							"name": "Provincial police services"
+						},{
+							"code": 91214,
+							"name": "Provincial fire-fighting services"
+						},{
+							"code": 91215,
+							"name": "Provincial regulatory services"
+						},{
+							"code": 91219,
+							"name": "Other provincial protective services"
+						}
+					]
+				},{
+					"code": 9122,
+					"name": "Provincial labour and employment services",
+					"subsectors":
+					[
+						{
+							"code": 91221,
+							"name": "Provincial labour and employment services"
+						}
+					]
+				},{
+					"code": 9129,
+					"name": "Other provincial and territorial public administration",
+					"subsectors":
+					[
+						{
+							"code": 91291,
+							"name": "Other provincial and territorial public administration"
+						}
+					]
+				}
+			]
+		},{
+			"code": 913,
+			"name": "Local, municipal and regional public administration",
+			"subsectors":
+			[
+				{
+					"code": 9131,
+					"name": "Municipal protective services",
+					"subsectors":
+					[
+						{
+							"code": 91311,
+							"name": "Municipal courts of law"
+						},{
+							"code": 91312,
+							"name": "Municipal correctional services"
+						},{
+							"code": 91313,
+							"name": "Municipal police services"
+						},{
+							"code": 91314,
+							"name": "Municipal fire-fighting services"
+						},{
+							"code": 91315,
+							"name": "Municipal regulatory services"
+						},{
+							"code": 91319,
+							"name": "Other municipal protective services"
+						}
+					]
+				},{
+					"code": 9139,
+					"name": "Other local, municipal and regional public administration",
+					"subsectors":
+					[
+						{
+							"code": 91391,
+							"name": "Other local, municipal and regional public administration"
+						}
+					]
+				}
+			]
+		},{
+			"code": 914,
+			"name": "Aboriginal public administration",
+			"subsectors":
+			[
+				{
+					"code": 9141,
+					"name": "Aboriginal public administration",
+					"subsectors":
+					[
+						{
+							"code": 91411,
+							"name": "Aboriginal public administration"
+						}
+					]
+				}
+			]
+		},{
+			"code": 919,
+			"name": "International and other extra-territorial public administration",
+			"subsectors":
+			[
+				{
+					"code": 9191,
+					"name": "International and other extra-territorial public administration",
+					"subsectors":
+					[
+						{
+							"code": 91911,
+							"name": "International and other extra-territorial public administration"
+						}
+					]
+				}
+			]
+		}
+	]
+}]
