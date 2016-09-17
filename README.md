@@ -9,7 +9,7 @@ Note: Please be advised that there are no gaurantees to its accuracy.
 
 1. HTML Markup
  
- 	<div>
+ <div>
 		<select ng-options="ind.name for ind in MySectors " ng-model="naics.level1" required>
 			 <option value="">Please Select</option>
 		</select>
@@ -25,7 +25,7 @@ Note: Please be advised that there are no gaurantees to its accuracy.
 		<select ng-show="naics.industry" ng-options="ind.name for ind in naics.level3.subsectors" ng-model="naics.level4">
 			 <option value="">Please Select</option>
 		</select>
-	</div>
+</div>
 
 
 
