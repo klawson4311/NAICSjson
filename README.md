@@ -9,7 +9,7 @@ Note: Please be advised that there are no gaurantees to its accuracy.
 
 1. HTML Markup
  
-<select ng-options="ind.name for ind in MySectors " ng-model="naics.level1" required>
+			<select ng-options="ind.name for ind in MySectors " ng-model="naics.level1" required>
 				 <option value="">Please Select</option>
 			</select>
 			
@@ -27,8 +27,8 @@ Note: Please be advised that there are no gaurantees to its accuracy.
 
 
 2. Insert into your (angular) controller:
-<div>
-	$http.get("path/to/subsectors.json").then(function(res){
-        $scope.MySectors = res.data;
-	});
-</div>
+
+	    $http.get("path/to/subsectors.json").then(function(res){
+                $scope.MySectors = res.data;
+	     });
+
