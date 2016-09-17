@@ -13,15 +13,15 @@ Using the following instructions, you will be able to implement a user-friendly 
 				 <option value="">Please Select</option>
 			</select>
 			
-			<select ng-show="naics.sector" ng-options="ind.name for ind in naics.level1.subsectors" ng-model="naics.level2" required>
+			<select ng-show="naics.level1" ng-options="ind.name for ind in naics.level1.subsectors" ng-model="naics.level2" required>
 				 <option value="">Please Select</option>
 			</select>
 			
-			<select ng-show="naics.subsector" ng-options="ind.name for ind in naics.level2.subsectors" ng-model="naics.level3" >
+			<select ng-show="naics.level2" ng-options="ind.name for ind in naics.level2.subsectors" ng-model="naics.level3" >
 				  <option value="">Please Select</option>
 			</select>
 			
-			<select ng-show="naics.industry" ng-options="ind.name for ind in naics.level3.subsectors" ng-model="naics.level4">
+			<select ng-show="naics.level3" ng-options="ind.name for ind in naics.level3.subsectors" ng-model="naics.level4">
 				 <option value="">Please Select</option>
 			</select>
 
